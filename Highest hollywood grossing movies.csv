@@ -1,0 +1,801 @@
+Release Year,Distributor,Genre, Domestic Sales (in $) , International Sales (in $) , World Sales (in $) 
+2009,Twentieth Century Fox,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",760507625,2086738578,2847246203
+2019,Walt Disney Studios Motion Pictures,"['Action', 'Adventure', 'Drama', 'Sci-Fi']",858373000,1939128328,2797501328
+1997,Paramount Pictures,"['Drama', 'Romance']",659363944,1542283320,2201647264
+2015,Walt Disney Studios Motion Pictures,"['Action', 'Adventure', 'Sci-Fi']",936662225,1132859475,2069521700
+2015,Universal Pictures,"['Action', 'Adventure', 'Sci-Fi']",652385625,1018130819,1670516444
+2019,Walt Disney Studios Motion Pictures,"['Adventure', 'Animation', 'Drama', 'Family', 'Musical']",543638043,1119261396,1662899439
+2012,Walt Disney Studios Motion Pictures,"['Action', 'Adventure', 'Sci-Fi']",623357910,895457605,1518815515
+2015,Universal Pictures,"['Action', 'Thriller']",353007020,1162334379,1515341399
+2019,Walt Disney Studios Motion Pictures,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Musical']",477373578,972653355,1450026933
+2015,Walt Disney Studios Motion Pictures,"['Action', 'Adventure', 'Sci-Fi']",459005868,943803672,1402809540
+2017,Walt Disney Studios Motion Pictures,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",620181382,712517448,1332698830
+2018,Universal Pictures,"['Action', 'Adventure', 'Sci-Fi']",417719760,892746536,1310466296
+2013,Walt Disney Studios Motion Pictures,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Musical']",400953009,880555091,1281508100
+2017,Walt Disney Studios Motion Pictures,"['Adventure', 'Family', 'Fantasy', 'Musical', 'Romance']",504481165,769095055,1273576220
+2017,Universal Pictures,"['Action', 'Crime', 'Thriller']",226008385,1009996733,1236005118
+2013,Walt Disney Studios Motion Pictures,"['Action', 'Adventure', 'Sci-Fi']",409013994,805797258,1214811252
+2015,Universal Pictures,"['Adventure', 'Animation', 'Comedy', 'Crime', 'Family', 'Sci-Fi']",336045770,823398892,1159444662
+2016,Walt Disney Studios Motion Pictures,"['Action', 'Adventure', 'Sci-Fi']",408084349,745253147,1153337496
+2003,New Line Cinema,"['Action', 'Adventure', 'Drama', 'Fantasy']",377845905,768185007,1146030912
+2019,Sony Pictures Entertainment (SPE),"['Action', 'Adventure', 'Sci-Fi']",390532085,741395911,1131927996
+2019,Walt Disney Studios Motion Pictures,"['Action', 'Adventure', 'Sci-Fi']",426829839,701633133,1128462972
+2011,DreamWorks,"['Action', 'Adventure', 'Sci-Fi']",352390543,771403536,1123794079
+2012,Sony Pictures Entertainment (SPE),"['Action', 'Adventure', 'Thriller']",304360277,804209222,1108569499
+2014,Paramount Pictures,"['Action', 'Adventure', 'Sci-Fi']",245439076,858614996,1104054072
+2012,Warner Bros.,"['Action', 'Crime', 'Drama']",448139099,633003513,1081142612
+2019,Warner Bros.,"['Crime', 'Drama', 'Thriller']",335451311,738968073,1074419384
+2019,Walt Disney Studios Motion Pictures,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",515202542,558946737,1074149279
+2019,Walt Disney Studios Motion Pictures,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",434038008,639356585,1073394593
+2010,Walt Disney Studios Motion Pictures,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",415004880,651965931,1066970811
+2006,Walt Disney Studios Motion Pictures,"['Action', 'Adventure', 'Fantasy']",423315812,642863935,1066179747
+1994,Walt Disney Studios Motion Pictures,"['Adventure', 'Animation', 'Drama', 'Family', 'Musical']",422783777,640828028,1063611805
+2016,Walt Disney Studios Motion Pictures,"['Action', 'Adventure', 'Sci-Fi']",532177324,523880396,1056057720
+2019,Walt Disney Studios Motion Pictures,"['Adventure', 'Comedy', 'Family', 'Fantasy', 'Musical', 'Romance']",355559216,695134737,1050693953
+2011,Walt Disney Studios Motion Pictures,"['Action', 'Adventure', 'Fantasy']",241071802,804642000,1045713802
+2017,Universal Pictures,"['Adventure', 'Animation', 'Comedy', 'Crime', 'Family', 'Sci-Fi']",264624300,770175831,1034800131
+1993,Universal Pictures,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",404214720,629713583,1033928303
+1999,Twentieth Century Fox,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",474544677,552538030,1027082707
+2010,Walt Disney Studios Motion Pictures,"['Adventure', 'Family', 'Fantasy', 'Mystery']",334191110,691277106,1025468216
+2001,Warner Bros.,"['Adventure', 'Family', 'Fantasy']",318087620,698725454,1016813075
+2008,Warner Bros.,"['Action', 'Crime', 'Drama', 'Thriller']",534858444,471115201,1005973645
+2013,Universal Pictures,"['Adventure', 'Animation', 'Comedy', 'Crime', 'Family', 'Sci-Fi']",368065385,602700620,970766005
+2016,Walt Disney Studios Motion Pictures,"['Adventure', 'Drama', 'Family', 'Fantasy']",364001123,602553806,966554929
+2017,Sony Pictures Entertainment (SPE),"['Action', 'Adventure', 'Comedy', 'Fantasy']",404540171,558002774,962542945
+2007,Walt Disney Studios Motion Pictures,"['Action', 'Adventure', 'Fantasy']",309420425,651576067,960996492
+2002,New Line Cinema,"['Action', 'Adventure', 'Drama', 'Fantasy']",342551365,604943730,947495095
+2007,Warner Bros.,"['Action', 'Adventure', 'Family', 'Fantasy', 'Mystery']",292353413,649818982,942172396
+2003,Walt Disney Studios Motion Pictures,"['Adventure', 'Animation', 'Comedy', 'Family']",380843261,559509384,940352645
+2009,Warner Bros.,"['Action', 'Adventure', 'Family', 'Fantasy', 'Mystery']",302305431,632148664,934454096
+2004,DreamWorks Distribution,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Romance']",441226247,487534523,928760770
+2018,Twentieth Century Fox,"['Biography', 'Drama', 'Music']",216668042,694141269,910809311
+2001,New Line Cinema,"['Action', 'Adventure', 'Drama', 'Fantasy']",315710750,581979322,897690072
+2005,Warner Bros.,"['Adventure', 'Family', 'Fantasy', 'Mystery']",290417905,606260335,896678241
+2007,Sony Pictures Entertainment (SPE),"['Action', 'Adventure', 'Sci-Fi']",336530303,558453070,894983373
+2009,Twentieth Century Fox,"['Adventure', 'Animation', 'Comedy', 'Family']",196573705,690113112,886686817
+2015,Sony Pictures Entertainment (SPE),"['Action', 'Adventure', 'Thriller']",200074609,680606910,880681519
+2017,Sony Pictures Entertainment (SPE),"['Action', 'Adventure', 'Sci-Fi']",334201140,545965784,880166924
+2002,Warner Bros.,"['Adventure', 'Family', 'Fantasy', 'Mystery']",262450136,617152229,879602366
+2012,Twentieth Century Fox,"['Adventure', 'Animation', 'Comedy', 'Family']",161321843,715922939,877244782
+2016,Universal Pictures,"['Adventure', 'Animation', 'Comedy', 'Family']",368384330,507074301,875458631
+2016,Warner Bros.,"['Action', 'Adventure', 'Sci-Fi']",330360194,543277334,873637528
+2005,Twentieth Century Fox,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",380270577,488119983,868390560
+2013,Lionsgate,"['Action', 'Adventure', 'Drama', 'Sci-Fi', 'Thriller']",424668047,440343699,865011746
+2017,Walt Disney Studios Motion Pictures,"['Action', 'Adventure', 'Comedy', 'Sci-Fi']",389813101,473942950,863756051
+2015,Walt Disney Studios Motion Pictures,"['Adventure', 'Animation', 'Comedy', 'Drama', 'Family', 'Fantasy', 'Sci-Fi']",356921711,501926308,858848019
+2018,Sony Pictures Entertainment (SPE),"['Action', 'Adventure', 'Sci-Fi']",213515506,642569645,856085151
+2017,Walt Disney Studios Motion Pictures,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Sci-Fi']",315058289,538925622,853983911
+2010,Warner Bros.,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",292576195,544260772,836836967
+2009,DreamWorks,"['Action', 'Adventure', 'Sci-Fi']",402111870,434191823,836303693
+2012,Lionsgate,"['Adventure', 'Drama', 'Fantasy', 'Romance']",292324737,537422917,829747654
+2002,Sony Pictures Entertainment (SPE),"['Action', 'Adventure', 'Sci-Fi']",407022860,418002176,825025036
+2017,Warner Bros.,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi', 'War']",412815408,410009114,822824522
+1996,Twentieth Century Fox,"['Action', 'Adventure', 'Sci-Fi']",306169268,511231623,817400891
+2016,Warner Bros.,"['Adventure', 'Family', 'Fantasy']",234037575,580006426,814044001
+2007,DreamWorks,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Romance']",322719944,490647436,813367380
+2019,Sony Pictures Entertainment (SPE),"['Action', 'Adventure', 'Comedy', 'Fantasy']",320314960,479744747,800059707
+2004,Warner Bros.,"['Adventure', 'Family', 'Fantasy', 'Mystery']",249975996,547385621,797361618
+2017,Walt Disney Studios Motion Pictures,"['Action', 'Adventure', 'Fantasy']",172558876,622322566,794881442
+1982,Universal Pictures,"['Adventure', 'Family', 'Sci-Fi']",435110554,304203888,792910554
+2018,Paramount Pictures,"['Action', 'Adventure', 'Thriller']",220159104,571498294,791657398
+2009,Sony Pictures Entertainment (SPE),"['Action', 'Adventure', 'Sci-Fi']",166112167,625105659,791217826
+2008,Paramount Pictures,"['Action', 'Adventure']",317101119,473552823,790653942
+2004,Sony Pictures Entertainment (SPE),"['Action', 'Adventure', 'Sci-Fi']",373585825,415390628,788976453
+2013,Universal Pictures,"['Action', 'Crime', 'Thriller']",238679850,550001118,788680968
+2018,Twentieth Century Fox,"['Action', 'Adventure', 'Comedy', 'Sci-Fi']",324591735,461304874,785896609
+2016,Twentieth Century Fox,"['Action', 'Adventure', 'Comedy', 'Sci-Fi']",363070709,419766082,782836791
+1977,Twentieth Century Fox,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",460998507,195751992,775398007
+2014,Walt Disney Studios Motion Pictures,"['Action', 'Adventure', 'Comedy', 'Sci-Fi']",333718600,439631547,773350147
+2006,Sony Pictures Entertainment (SPE),"['Mystery', 'Thriller']",217536138,542470807,760006945
+2019,Universal Pictures,"['Action', 'Adventure', 'Thriller']",173956935,585100000,759056935
+2014,Walt Disney Studios Motion Pictures,"['Adventure', 'Family', 'Fantasy', 'Romance']",241410378,517001401,758411779
+2012,Sony Pictures Entertainment (SPE),"['Action', 'Adventure', 'Sci-Fi']",262030663,495900000,757930663
+2014,Lionsgate,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",337135885,418220826,755356711
+2010,DreamWorks,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Romance']",238736787,513864080,752600867
+2012,DreamWorks,"['Adventure', 'Animation', 'Comedy', 'Family']",216391482,530529792,746921274
+2016,Warner Bros.,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",325100054,421746840,746846894
+2014,Twentieth Century Fox,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",233921534,512124166,746045700
+2005,Walt Disney Studios Motion Pictures,"['Adventure', 'Family', 'Fantasy']",291710957,453302158,745013115
+2003,Warner Bros.,"['Action', 'Sci-Fi']",281576461,460271476,741847937
+2009,Walt Disney Studios Motion Pictures,"['Adventure', 'Animation', 'Comedy', 'Drama', 'Family']",293004164,442094938,735099102
+2013,Warner Bros.,"['Action', 'Drama', 'Sci-Fi', 'Thriller']",274092705,449100000,723192705
+2014,Walt Disney Studios Motion Pictures,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",259766572,454654931,714421503
+2011,Summit Entertainment,"['Adventure', 'Drama', 'Fantasy', 'Romance', 'Thriller']",281287133,430918723,712205856
+2009,Summit Entertainment,"['Adventure', 'Drama', 'Fantasy', 'Romance']",297816253,413209228,711025481
+2014,Twentieth Century Fox,"['Action', 'Adventure', 'Drama', 'Sci-Fi', 'Thriller']",208545589,502098977,710644566
+2007,DreamWorks,"['Action', 'Adventure', 'Sci-Fi']",319246193,390463587,709709780
+2017,Warner Bros.,['Horror'],328828874,372967570,701796444
+2014,Paramount Pictures,"['Adventure', 'Drama', 'Sci-Fi']",188020017,513709189,701729206
+2010,Summit Entertainment,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Romance', 'Thriller']",300531751,397959596,698491347
+2011,Paramount Pictures,"['Action', 'Adventure', 'Thriller']",209397903,485315477,694713380
+2012,Lionsgate,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",408010692,286384032,694394724
+2015,Paramount Pictures,"['Action', 'Adventure', 'Thriller']",195042377,487674259,682716636
+1994,Paramount Pictures,"['Drama', 'Romance']",330455270,347770863,678226133
+2016,Walt Disney Studios Motion Pictures,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",232641920,445154156,677796076
+1999,Walt Disney Studios Motion Pictures,"['Drama', 'Mystery', 'Thriller']",293506292,379300140,672806432
+2013,Warner Bros.,"['Action', 'Adventure', 'Sci-Fi']",291045518,377000000,668045518
+2006,Twentieth Century Fox,"['Adventure', 'Animation', 'Comedy', 'Family']",195330621,471763885,667094506
+2011,DreamWorks,"['Action', 'Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",165249063,500443218,665692281
+2015,Lionsgate,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",281723902,376620235,658344137
+2014,Walt Disney Studios Motion Pictures,"['Action', 'Adventure', 'Animation', 'Comedy', 'Family', 'Sci-Fi']",222527828,435341858,657869686
+2018,Warner Bros.,"['Adventure', 'Family', 'Fantasy']",159555901,495300000,654855901
+2003,Walt Disney Studios Motion Pictures,"['Action', 'Adventure', 'Fantasy']",305413918,348850097,654264015
+2002,Twentieth Century Fox,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",310676740,343103230,653779970
+2013,Walt Disney Studios Motion Pictures,"['Action', 'Adventure', 'Fantasy']",206362140,438421000,644783140
+2016,Universal Pictures,"['Animation', 'Comedy', 'Family', 'Musical']",270448425,363759959,634208384
+2008,DreamWorks,"['Action', 'Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",215434591,416311606,631746197
+2004,Walt Disney Studios Motion Pictures,"['Action', 'Adventure', 'Animation', 'Family']",261441092,370165961,631607053
+2015,Twentieth Century Fox,"['Adventure', 'Drama', 'Sci-Fi']",228433663,401728785,630162448
+2008,Sony Pictures Entertainment (SPE),"['Action', 'Drama', 'Fantasy']",227946274,401497154,629443428
+2011,Universal Pictures,"['Action', 'Crime', 'Thriller']",209837675,416300000,626137675
+2012,Sony Pictures Entertainment (SPE),"['Action', 'Adventure', 'Comedy', 'Sci-Fi']",179020854,445005922,624026776
+2010,Paramount Pictures,"['Action', 'Adventure', 'Sci-Fi']",312433331,311500000,623933331
+2007,Walt Disney Studios Motion Pictures,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",206445654,417280431,623726085
+2014,Twentieth Century Fox,"['Action', 'Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",177002924,444534595,621537519
+2017,Twentieth Century Fox,"['Action', 'Drama', 'Sci-Fi', 'Thriller']",226277068,392902882,619179950
+1997,Universal Pictures,"['Action', 'Adventure', 'Sci-Fi']",229086679,389552320,618638999
+2006,Sony Pictures Entertainment (SPE),"['Action', 'Adventure', 'Thriller']",167445960,449056952,616502912
+2004,Newmarket Films,['Drama'],370782930,241271576,612054506
+2008,Universal Pictures,"['Comedy', 'Musical', 'Romance']",144169664,467088155,611257819
+2012,Twentieth Century Fox,"['Adventure', 'Drama', 'Fantasy']",124987023,484029542,609016565
+2017,Paramount Pictures,"['Action', 'Adventure', 'Sci-Fi']",130168683,475256474,605425157
+2008,DreamWorks,"['Adventure', 'Animation', 'Comedy', 'Family']",180010950,423889404,603900354
+2005,Paramount Pictures,"['Action', 'Adventure', 'Sci-Fi']",234280354,369592765,603873119
+2010,Walt Disney Studios Motion Pictures,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Musical', 'Romance']",200821936,391640880,592462816
+2008,Sony Pictures Entertainment (SPE),"['Action', 'Adventure', 'Thriller']",168368427,421212055,589580482
+1997,Sony Pictures Entertainment (SPE),"['Action', 'Adventure', 'Comedy', 'Sci-Fi']",250690539,338700000,589390539
+2013,Twentieth Century Fox,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",187168425,400067558,587235983
+2011,Warner Bros.,['Comedy'],254464305,332300000,586764305
+2008,Paramount Pictures,"['Action', 'Adventure', 'Sci-Fi']",319034126,266762121,585796247
+2007,Warner Bros.,"['Action', 'Drama', 'Sci-Fi', 'Thriller']",256393010,329017042,585410052
+2018,Warner Bros.,"['Action', 'Adventure', 'Sci-Fi']",137690172,445203499,582893671
+2001,Walt Disney Studios Motion Pictures,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",290642256,289065482,579707738
+2015,Universal Pictures,"['Drama', 'Romance', 'Thriller']",166167230,403484237,569651467
+2017,Warner Bros.,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",168052812,398600000,566652812
+2011,Sony Pictures Entertainment (SPE),"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",142614158,421135165,563749323
+2011,Walt Disney Studios Motion Pictures,"['Adventure', 'Animation', 'Comedy', 'Family', 'Sport']",191452396,368400000,559852396
+2005,Universal Pictures,"['Action', 'Adventure', 'Drama', 'Romance']",218080025,338826353,556906378
+2011,DreamWorks,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",149260504,405726973,554987477
+1998,Walt Disney Studios Motion Pictures,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",201578182,352131606,553709788
+2004,Twentieth Century Fox,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",186740799,365898772,552639571
+2012,Universal Pictures,['Comedy'],218815487,330552828,549368315
+2014,Warner Bros.,"['Action', 'Biography', 'Drama', 'War']",350126372,197300000,547426372
+2000,Paramount Pictures,"['Action', 'Adventure', 'Thriller']",215409889,330978219,546388108
+2016,Twentieth Century Fox,"['Action', 'Adventure', 'Sci-Fi']",155442489,388491616,543934105
+2010,Universal Pictures,"['Adventure', 'Animation', 'Comedy', 'Crime', 'Family', 'Sci-Fi']",251513985,291600000,543113985
+2015,Walt Disney Studios Motion Pictures,"['Adventure', 'Drama', 'Family', 'Fantasy', 'Romance']",201151353,341206978,542358331
+2013,Paramount Pictures,"['Action', 'Adventure', 'Horror', 'Sci-Fi']",202807711,337648165,540455876
+2012,Walt Disney Studios Motion Pictures,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",237283207,301700000,538983207
+1980,Twentieth Century Fox,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",292753960,190685234,538375067
+2007,Twentieth Century Fox,"['Adventure', 'Animation', 'Comedy']",183135014,353279279,536414293
+2015,Twentieth Century Fox,"['Action', 'Adventure', 'Drama', 'History', 'Western']",183637894,349312609,532950503
+2018,Warner Bros.,"['Action', 'Horror', 'Sci-Fi', 'Thriller']",145443742,384994536,530438278
+2018,Walt Disney Studios Motion Pictures,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Sci-Fi']",201091711,328232251,529323962
+2018,Sony Pictures Entertainment (SPE),"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Horror']",167510016,361073758,528583774
+2017,Warner Bros.,"['Action', 'Drama', 'History', 'Thriller', 'War']",189740665,337275642,527016307
+2014,Warner Bros.,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",200676069,324300000,524976069
+2019,Universal Pictures,"['Action', 'Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",160799505,363589578,524389083
+2009,Warner Bros.,"['Action', 'Adventure', 'Mystery']",209028679,315000000,524028679
+2004,Universal Pictures,"['Comedy', 'Romance']",279261160,243396776,522657936
+2008,Walt Disney Studios Motion Pictures,"['Adventure', 'Animation', 'Family', 'Sci-Fi']",223808164,297503726,521311890
+2016,Twentieth Century Fox,"['Action', 'Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",143528619,377642206,521170825
+1991,TriStar Pictures,"['Action', 'Sci-Fi']",205881154,312106698,520881154
+2015,Walt Disney Studios Motion Pictures,"['Action', 'Adventure', 'Comedy', 'Sci-Fi']",180202163,339109802,519311965
+2018,Universal Pictures,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Musical']",271094731,241474088,512568819
+1990,Paramount Pictures,"['Drama', 'Fantasy', 'Romance', 'Thriller']",217631306,288072251,505703557
+1992,Walt Disney Studios Motion Pictures,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Musical', 'Romance']",217350219,286700000,504050219
+2014,Twentieth Century Fox,"['Adventure', 'Animation', 'Comedy', 'Family', 'Music', 'Musical']",131538435,367242682,498781117
+2004,Warner Bros.,"['Drama', 'History']",133378256,364031596,497409852
+1999,Walt Disney Studios Motion Pictures,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",245852179,251523202,497375381
+2010,DreamWorks,"['Action', 'Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",217581231,277298240,494879471
+1996,Warner Bros.,"['Action', 'Adventure', 'Thriller']",241721524,252750000,494471524
+2013,Walt Disney Studios Motion Pictures,"['Adventure', 'Family', 'Fantasy']",234911825,258400000,493311825
+2010,Warner Bros.,"['Action', 'Adventure', 'Fantasy']",163214888,330000105,493214993
+2019,Walt Disney Studios Motion Pictures,"['Adventure', 'Family', 'Fantasy']",113929605,377800484,491730089
+2017,Twentieth Century Fox,"['Action', 'Adventure', 'Drama', 'Sci-Fi', 'Thriller']",146880162,343839601,490719763
+2001,DreamWorks Distribution,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Romance']",267665011,220188309,487853320
+2005,Twentieth Century Fox,"['Action', 'Comedy', 'Crime', 'Thriller']",186336279,300951367,487287646
+2009,Sony Pictures Entertainment (SPE),"['Action', 'Mystery', 'Thriller']",133375846,352554970,485930816
+2014,Paramount Pictures,"['Action', 'Adventure', 'Animation', 'Comedy', 'Sci-Fi']",191204754,293800000,485004754
+2003,Universal Pictures,"['Comedy', 'Fantasy']",242829261,241763613,484592874
+2011,Twentieth Century Fox,"['Adventure', 'Animation', 'Comedy', 'Family', 'Music', 'Musical']",143619809,340246709,483866518
+1998,DreamWorks Distribution,"['Drama', 'War']",217049603,265300000,482349603
+2011,Twentieth Century Fox,"['Action', 'Drama', 'Sci-Fi', 'Thriller']",176760185,305040688,481800873
+1990,Twentieth Century Fox,"['Comedy', 'Family']",285761243,190923432,476684675
+2015,Sony Pictures Entertainment (SPE),"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Horror']",169700110,305486596,475186706
+1983,Twentieth Century Fox,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",309306177,122009457,475106177
+2005,Warner Bros.,"['Adventure', 'Comedy', 'Family', 'Fantasy', 'Musical']",206459076,268509687,474968763
+1989,Paramount Pictures,"['Action', 'Adventure']",197171806,277000000,474171806
+2015,Warner Bros.,"['Action', 'Adventure', 'Thriller']",155190832,318818322,474009154
+2019,Warner Bros.,"['Drama', 'Fantasy', 'Horror']",211593228,261500000,473093228
+1975,Universal Pictures,"['Adventure', 'Thriller']",260758300,210653000,471411300
+2012,Walt Disney Studios Motion Pictures,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Sci-Fi']",189422889,281800000,471222889
+2009,Warner Bros.,['Comedy'],277322503,191988333,469310836
+2014,Warner Bros.,"['Action', 'Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Sci-Fi']",257760692,210300000,468060692
+2018,Paramount Pictures,"['Action', 'Adventure', 'Sci-Fi']",127195589,340794056,467989645
+2013,Paramount Pictures,"['Action', 'Adventure', 'Sci-Fi']",228778661,238586585,467365246
+1999,Warner Bros.,"['Action', 'Sci-Fi']",171479930,295145800,466625730
+2000,DreamWorks Distribution,"['Action', 'Adventure', 'Drama']",187705427,277675375,465380802
+1990,Walt Disney Studios Motion Pictures,"['Comedy', 'Romance']",178406268,285000000,463406268
+2006,Walt Disney Studios Motion Pictures,"['Adventure', 'Animation', 'Comedy', 'Family', 'Sport']",244082982,217908885,461991867
+2006,Twentieth Century Fox,"['Action', 'Adventure', 'Sci-Fi']",234362462,226072829,460435291
+2014,Universal Pictures,"['Action', 'Sci-Fi', 'Thriller']",126663600,332200000,458863600
+1996,Paramount Pictures,"['Action', 'Adventure', 'Thriller']",180981856,276714535,457696391
+2007,Warner Bros.,"['Action', 'Drama']",210614939,245453242,456068181
+2003,Warner Bros.,"['Action', 'Drama']",111127263,343500000,454627263
+2001,Warner Bros.,"['Crime', 'Thriller']",183417150,267300000,450717150
+2011,Paramount Pictures,"['Action', 'Adventure', 'Fantasy']",181030624,268295994,449326618
+2001,Walt Disney Studios Motion Pictures,"['Action', 'Drama', 'History', 'Romance', 'War']",198542554,250678391,449220945
+2016,Lionsgate,"['Comedy', 'Drama', 'Music', 'Musical', 'Romance']",151101803,297805062,448906865
+1999,Walt Disney Studios Motion Pictures,"['Adventure', 'Animation', 'Comedy', 'Drama', 'Family', 'Music']",171091819,277100000,448191819
+2002,Sony Pictures Entertainment (SPE),"['Action', 'Adventure', 'Comedy', 'Mystery', 'Sci-Fi']",193735288,251400000,445135288
+2007,Universal Pictures,"['Action', 'Mystery', 'Thriller']",227471070,216628965,444100035
+2001,Universal Pictures,"['Action', 'Adventure', 'Fantasy', 'Thriller']",202019785,241261119,443280904
+2009,Twentieth Century Fox,"['Adventure', 'Animation', 'Comedy', 'Drama', 'Family', 'Fantasy', 'Music', 'Musical']",219614612,223525393,443140005
+2012,Universal Pictures,"['Drama', 'Musical', 'Romance']",148809770,293489539,442299309
+1993,Twentieth Century Fox,"['Comedy', 'Drama', 'Family']",219195243,222090952,441286195
+2015,Paramount Pictures,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",89760956,350842581,440603537
+2017,Twentieth Century Fox,"['Biography', 'Drama', 'Musical']",174340174,262609460,436949634
+2018,Warner Bros.,"['Drama', 'Music', 'Romance']",215288866,220900000,436188866
+2019,Warner Bros.,"['Action', 'Adventure', 'Comedy', 'Family', 'Mystery', 'Sci-Fi']",144105346,289409488,433514834
+2003,Warner Bros.,"['Action', 'Sci-Fi']",150371112,283000000,433371112
+2002,Metro-Goldwyn-Mayer (MGM),"['Action', 'Adventure', 'Thriller']",160942139,271028977,431971116
+2019,Universal Pictures,"['Adventure', 'Animation', 'Comedy', 'Family']",158874395,271176898,430051293
+2000,Twentieth Century Fox,"['Adventure', 'Drama', 'Romance']",233632142,196000000,429632142
+2018,Warner Bros.,"['Action', 'Adventure', 'Sci-Fi']",101028233,327000000,428028233
+2010,The Weinstein Company,"['Biography', 'Drama', 'History']",138797449,288576868,427374317
+2003,Warner Bros.,"['Action', 'Sci-Fi']",139313948,288030377,427344325
+2020,Sony Pictures Entertainment (SPE),"['Action', 'Comedy', 'Crime', 'Thriller']",206305244,220200000,426505244
+2012,The Weinstein Company,"['Drama', 'Western']",162805434,263268939,426074373
+1991,Walt Disney Studios Motion Pictures,"['Animation', 'Family', 'Fantasy', 'Musical', 'Romance']",218967620,186043788,424967620
+1990,Orion Pictures,"['Adventure', 'Drama', 'Western']",184208848,240000000,424208848
+2008,Walt Disney Studios Motion Pictures,"['Action', 'Adventure', 'Family', 'Fantasy']",141621490,278044078,419665568
+2008,Warner Bros.,"['Comedy', 'Drama', 'Romance']",152647258,266118261,418765519
+1999,Universal Pictures,"['Action', 'Adventure', 'Fantasy']",155385488,260547918,415933406
+2010,Twentieth Century Fox,"['Adventure', 'Family', 'Fantasy']",104386950,311299267,415686217
+2016,Universal Pictures,"['Action', 'Thriller']",162434410,253050504,415484914
+2013,Twentieth Century Fox,"['Action', 'Sci-Fi']",132556852,282271394,414828246
+2015,Twentieth Century Fox,"['Action', 'Adventure', 'Comedy', 'Thriller']",128261724,286089822,414351546
+2009,Twentieth Century Fox,"['Adventure', 'Comedy', 'Family', 'Fantasy']",177243721,235862449,413106170
+1989,Warner Bros.,"['Action', 'Adventure']",251348343,160160000,411508343
+2013,Warner Bros.,"['Action', 'Adventure', 'Sci-Fi']",101802906,309200000,411002906
+2017,Twentieth Century Fox,"['Action', 'Adventure', 'Comedy', 'Crime', 'Thriller']",100234838,310667824,410902662
+2008,Summit Entertainment,"['Drama', 'Fantasy', 'Romance']",193962473,214467942,408430415
+2002,Walt Disney Studios Motion Pictures,"['Drama', 'Mystery', 'Sci-Fi', 'Thriller']",227966634,180281283,408247917
+2003,Twentieth Century Fox,"['Action', 'Sci-Fi', 'Thriller']",214949694,192761855,407711549
+2019,Twentieth Century Fox,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",85838210,319142333,404980543
+2008,Universal Pictures,"['Action', 'Fantasy', 'Horror', 'War']",102491776,300958054,403449830
+2012,Twentieth Century Fox,"['Adventure', 'Mystery', 'Sci-Fi']",126477084,276877385,403354469
+2018,Universal Pictures,"['Comedy', 'Musical', 'Romance']",120634935,281619449,402254384
+2010,Walt Disney Studios Motion Pictures,"['Action', 'Adventure', 'Sci-Fi']",172062763,228001089,400063852
+2006,Paramount Pictures,"['Action', 'Adventure', 'Thriller']",134029801,264449696,398479497
+2012,Universal Pictures,"['Action', 'Adventure', 'Drama', 'Fantasy']",155332381,241260448,396592829
+1978,Paramount Pictures,"['Comedy', 'Musical', 'Romance']",190071103,206200000,396271103
+2018,Walt Disney Studios Motion Pictures,"['Action', 'Adventure', 'Sci-Fi']",213767512,179157295,392924807
+2013,Paramount Pictures,"['Biography', 'Comedy', 'Crime', 'Drama']",116900694,275100000,392000694
+2006,Warner Bros.,"['Action', 'Adventure', 'Sci-Fi']",200081192,191000000,391081192
+1991,Warner Bros.,"['Action', 'Adventure', 'Drama', 'Romance']",165493908,225000000,390493908
+1981,Paramount Pictures,"['Action', 'Adventure']",248159971,141766000,389925971
+2016,Twentieth Century Fox,"['Action', 'Adventure', 'Sci-Fi']",103144286,286537649,389681935
+2007,Twentieth Century Fox,"['Action', 'Thriller']",134529403,253626608,388156011
+2019,Warner Bros.,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",110500138,276100000,386600138
+2015,Twentieth Century Fox,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Sci-Fi']",177397510,208644097,386041607
+2009,Paramount Pictures,"['Action', 'Adventure', 'Sci-Fi']",257730019,127950427,385680446
+2019,Universal Pictures,"['Action', 'Drama', 'War']",159227644,225691745,384919389
+2006,Warner Bros.,"['Adventure', 'Animation', 'Comedy', 'Family', 'Music', 'Musical', 'Romance']",198000317,186335791,384336108
+2002,Twentieth Century Fox,"['Adventure', 'Animation', 'Comedy', 'Family']",176387405,206869731,383257136
+1985,Universal Pictures,"['Adventure', 'Comedy', 'Sci-Fi']",211406762,170500000,381906762
+2017,Universal Pictures,"['Drama', 'Romance']",114581250,266964596,381545846
+2009,DreamWorks,"['Action', 'Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Sci-Fi']",198351526,183158344,381509870
+1998,Sony Pictures Entertainment (SPE),"['Action', 'Sci-Fi', 'Thriller']",136314294,242700000,379014294
+1994,Twentieth Century Fox,"['Action', 'Comedy', 'Thriller']",146282411,232600000,378882411
+2008,Fox Searchlight Pictures,"['Drama', 'Romance']",141319928,237090614,378410542
+2012,Twentieth Century Fox,"['Action', 'Crime', 'Thriller']",139854287,236298168,376152455
+2013,Paramount Pictures,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",122523060,253217645,375740705
+2015,Warner Bros.,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",154058340,221600410,375658750
+2018,Sony Pictures Entertainment (SPE),"['Action', 'Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Sci-Fi']",190241310,185299521,375540831
+2004,DreamWorks Distribution,"['Adventure', 'Animation', 'Comedy', 'Family', 'Thriller']",160861908,213721971,374583879
+2019,Sony Pictures Entertainment (SPE),"['Comedy', 'Drama']",142502728,232063026,374565754
+2000,Paramount Pictures,"['Comedy', 'Fantasy', 'Romance']",182811707,191300000,374111707
+2005,Warner Bros.,"['Action', 'Crime', 'Drama']",206852432,166809514,373661946
+2014,Twentieth Century Fox,"['Adventure', 'Animation', 'Comedy', 'Family', 'Sci-Fi']",83850911,289664710,373515621
+2009,Twentieth Century Fox,"['Action', 'Sci-Fi']",179883157,193179707,373062864
+2018,Universal Pictures,"['Drama', 'Romance', 'Thriller']",100407760,271580078,371987838
+2005,Sony Pictures Entertainment (SPE),"['Comedy', 'Romance']",179495555,192098655,371594210
+2009,Warner Bros.,"['Action', 'Sci-Fi']",125322469,246030532,371353001
+2011,Paramount Pictures,"['Action', 'Adventure', 'Sci-Fi']",176654505,193915269,370569774
+2014,Warner Bros.,"['Action', 'Adventure', 'Sci-Fi']",100206256,270335000,370541256
+1998,Twentieth Century Fox,"['Comedy', 'Romance']",176484651,193400000,369884651
+2014,Twentieth Century Fox,"['Drama', 'Mystery', 'Thriller']",167767189,201563174,369330363
+2001,Universal Pictures,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",181171875,187608934,368780809
+2002,IFC Films,"['Comedy', 'Drama', 'Romance']",241438208,127305836,368744044
+1995,Twentieth Century Fox,"['Action', 'Adventure', 'Thriller']",100012499,266089167,366101666
+2019,Warner Bros.,"['Action', 'Adventure', 'Comedy', 'Fantasy']",140371656,225600000,365971656
+2018,Warner Bros.,"['Horror', 'Mystery', 'Thriller']",117450119,248101575,365551694
+2007,Twentieth Century Fox,"['Adventure', 'Animation', 'Comedy', 'Drama', 'Family', 'Fantasy', 'Music', 'Musical']",217326974,148025572,365352546
+1999,Universal Pictures,"['Comedy', 'Drama', 'Romance']",116089678,247800000,363889678
+1998,Walt Disney Studios Motion Pictures,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",162798565,200460294,363258859
+2014,Twentieth Century Fox,"['Adventure', 'Comedy', 'Family', 'Fantasy']",113746621,249458014,363204635
+2004,Warner Bros.,"['Crime', 'Thriller']",125544280,237200000,362744280
+2001,Twentieth Century Fox,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",180011740,182200000,362211740
+2013,Warner Bros.,"['Comedy', 'Crime']",112200072,249800000,362000072
+1999,Metro-Goldwyn-Mayer (MGM),"['Action', 'Adventure', 'Thriller']",126943684,234888716,361832400
+2009,Universal Pictures,"['Action', 'Crime', 'Thriller']",155064265,205302605,360366870
+2014,Paramount Pictures,"['Action', 'Adventure', 'Drama']",101200044,258000000,359200044
+2010,Sony Pictures Entertainment (SPE),"['Action', 'Drama', 'Family', 'Sport']",176591618,182534404,359126022
+2012,Sony Pictures Entertainment (SPE),"['Animation', 'Comedy', 'Family', 'Fantasy', 'Horror']",148313048,210062555,358375603
+2002,Twentieth Century Fox,"['Action', 'Crime', 'Mystery', 'Sci-Fi', 'Thriller']",132072926,226300000,358372926
+2016,Warner Bros.,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Romance']",126643061,230057296,356700357
+1999,DreamWorks Distribution,['Drama'],130096601,226200000,356296601
+1988,Metro-Goldwyn-Mayer (MGM),['Drama'],172825435,182000000,354825435
+2013,Warner Bros.,"['Drama', 'Romance']",144840419,208801855,353642274
+2019,Walt Disney Studios Motion Pictures,"['Adventure', 'Family', 'Fantasy']",114766307,238518314,353284621
+2004,Twentieth Century Fox,"['Action', 'Mystery', 'Sci-Fi', 'Thriller']",144801023,208332875,353133898
+1992,TriStar Pictures,"['Drama', 'Mystery', 'Thriller']",117727224,235200000,352927224
+2017,Twentieth Century Fox,"['Crime', 'Drama', 'Mystery']",102826543,249967538,352794081
+2011,Twentieth Century Fox,"['Action', 'Adventure', 'Sci-Fi']",146408305,206208385,352616690
+2016,Sony Pictures Entertainment (SPE),"['Action', 'Adventure', 'Animation', 'Comedy', 'Family']",107509366,244824563,352333929
+2002,DreamWorks Distribution,"['Biography', 'Crime', 'Drama']",164615351,187498961,352114312
+2013,Lionsgate,"['Crime', 'Mystery', 'Thriller']",117723989,234000000,351723989
+2001,Metro-Goldwyn-Mayer (MGM),"['Crime', 'Drama', 'Thriller']",165092268,186600000,351692268
+1994,New Line Cinema,"['Action', 'Comedy', 'Crime', 'Fantasy']",119938730,231644677,351583407
+2018,Sony Pictures Entertainment (SPE),"['Adventure', 'Animation', 'Comedy', 'Crime', 'Drama', 'Family', 'Fantasy']",115253424,236242642,351496066
+1994,Twentieth Century Fox,"['Action', 'Adventure', 'Thriller']",121248145,229200000,350448145
+2000,Walt Disney Studios Motion Pictures,"['Adventure', 'Animation', 'Drama', 'Family', 'Fantasy']",137748063,212074702,349822765
+2018,Walt Disney Studios Motion Pictures,"['Adventure', 'Comedy', 'Family', 'Fantasy', 'Musical']",171958438,177587704,349546142
+2012,Universal Pictures,"['Adventure', 'Animation', 'Comedy', 'Drama', 'Family', 'Fantasy', 'Musical']",214030500,134809816,348840316
+2014,Twentieth Century Fox,"['Action', 'Mystery', 'Sci-Fi', 'Thriller']",102427862,245891999,348319861
+2004,Walt Disney Studios Motion Pictures,"['Action', 'Adventure', 'Mystery', 'Thriller']",173008894,174503424,347512318
+2001,New Line Cinema,"['Action', 'Comedy', 'Crime', 'Thriller']",226164286,121161516,347325802
+2016,Twentieth Century Fox,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Musical', 'Romance']",153707064,193157822,346864886
+2000,Universal Pictures,"['Comedy', 'Family', 'Fantasy']",260465005,85108027,345573032
+2016,Paramount Pictures,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",158848340,184623476,343471816
+2011,Twentieth Century Fox,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Music', 'Musical']",133110742,209584693,342695435
+2008,Universal Pictures,"['Action', 'Crime', 'Thriller']",134508551,207954512,342463063
+1994,Universal Pictures,"['Comedy', 'Family', 'Fantasy']",130531208,211100000,341631208
+2018,Paramount Pictures,"['Drama', 'Horror', 'Sci-Fi']",188024361,152928610,340952971
+2007,Walt Disney Studios Motion Pictures,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Musical', 'Romance']",127807262,212680574,340487836
+2014,Warner Bros.,"['Action', 'Drama']",106580051,231000000,337580051
+1995,Warner Bros.,"['Action', 'Adventure']",184069126,152498032,336567158
+2009,Walt Disney Studios Motion Pictures,"['Action', 'Adventure', 'Fantasy']",90759676,245606000,336365676
+2008,Paramount Pictures,"['Drama', 'Fantasy', 'Romance']",127509326,208293460,335802786
+2012,Warner Bros.,"['Action', 'Adventure', 'Comedy', 'Family', 'Fantasy', 'Sci-Fi']",103860290,231400000,335260290
+1996,Walt Disney Studios Motion Pictures,"['Action', 'Adventure', 'Thriller']",134069511,200993110,335062621
+2005,Twentieth Century Fox,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",154696080,178839854,333535934
+1984,Paramount Pictures,"['Action', 'Adventure']",179870271,153237000,333107271
+1989,Universal Pictures,"['Adventure', 'Comedy', 'Sci-Fi']",119000002,213500000,332500002
+2014,Sony Pictures Entertainment (SPE),"['Action', 'Comedy', 'Crime']",191719337,139614539,331333876
+2000,Universal Pictures,"['Comedy', 'Romance']",166244045,164200000,330444045
+1988,Walt Disney Studios Motion Pictures,"['Adventure', 'Animation', 'Comedy', 'Crime', 'Family', 'Fantasy', 'Mystery']",156452370,173351588,329803958
+2010,Fox Searchlight Pictures,"['Drama', 'Thriller']",106954678,222443368,329398046
+2000,Warner Bros.,"['Action', 'Adventure', 'Drama', 'Thriller']",182618434,146100000,328718434
+1995,New Line Cinema,"['Crime', 'Drama', 'Mystery', 'Thriller']",100125643,227207916,327333559
+2019,Lionsgate,"['Action', 'Crime', 'Thriller']",171015687,156266092,327281779
+2006,Twentieth Century Fox,"['Comedy', 'Drama']",124740460,201965655,326706115
+2015,Twentieth Century Fox,"['Action', 'Crime', 'Thriller']",89256424,237222717,326479141
+1996,Walt Disney Studios Motion Pictures,"['Animation', 'Drama', 'Family', 'Musical', 'Romance']",100138851,225200000,325338851
+2009,Walt Disney Studios Motion Pictures,"['Adventure', 'Animation', 'Comedy', 'Drama', 'Family', 'Fantasy']",137855863,187430783,325286646
+2015,Paramount Pictures,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",162994032,162192000,325186032
+1993,Universal Pictures,"['Biography', 'Drama', 'History']",96898818,225262427,322161245
+2010,DreamWorks,"['Action', 'Animation', 'Comedy', 'Crime', 'Family', 'Mystery', 'Sci-Fi', 'Thriller']",148415853,173469912,321885765
+2016,Warner Bros.,"['Horror', 'Mystery', 'Thriller']",102470008,219318211,321788219
+2018,Universal Pictures,"['Biography', 'Comedy', 'Drama', 'Music']",85080171,236672485,321752656
+1992,Warner Bros.,"['Action', 'Crime', 'Thriller']",144731527,177000000,321731527
+2009,Sony Pictures Entertainment (SPE),"['Comedy', 'Romance']",88915214,232767386,321682600
+2010,Universal Pictures,"['Action', 'Adventure', 'Drama', 'History']",105269730,216400011,321669741
+2009,The Weinstein Company,"['Adventure', 'Drama', 'War']",120540719,200917028,321457747
+2013,Warner Bros.,"['Horror', 'Mystery', 'Thriller']",137400141,182890848,320290989
+2020,Paramount Pictures,"['Action', 'Adventure', 'Comedy', 'Sci-Fi']",148974665,170741018,319715683
+2010,Paramount Pictures,"['Action', 'Adventure', 'Family', 'Fantasy']",131772187,187941694,319713881
+2009,Walt Disney Studios Motion Pictures,"['Comedy', 'Drama', 'Romance']",163958031,153417000,317375031
+2001,Universal Pictures,"['Biography', 'Drama']",170742341,146048916,316791257
+1997,Sony Pictures Entertainment (SPE),"['Action', 'Drama', 'Thriller']",172956409,142200000,315156409
+2012,Lionsgate,"['Action', 'Adventure', 'Thriller']",85028192,229947763,314975955
+2005,Walt Disney Studios Motion Pictures,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Sci-Fi']",135386665,179046172,314432837
+2004,Warner Bros.,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Musical']",187935490,126279964,314215454
+1997,Sony Pictures Entertainment (SPE),"['Comedy', 'Drama', 'Romance']",148478011,165700000,314178011
+2015,Twentieth Century Fox,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",81697192,230598864,312296056
+1999,New Line Cinema,"['Action', 'Adventure', 'Comedy', 'Crime']",206040086,105976842,312016928
+2017,Warner Bros.,"['Action', 'Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Sci-Fi']",175750384,136200000,311950384
+2019,Lionsgate,"['Comedy', 'Crime', 'Drama', 'Mystery', 'Thriller']",165363234,146242347,311605581
+2010,Universal Pictures,"['Comedy', 'Romance']",148438600,162211985,310650585
+2008,Walt Disney Studios Motion Pictures,"['Adventure', 'Animation', 'Comedy', 'Crime', 'Drama', 'Family', 'Sci-Fi']",114053579,195926415,309979994
+1999,Paramount Pictures,"['Comedy', 'Romance']",152257509,157202783,309460292
+2009,Warner Bros.,"['Biography', 'Drama', 'Sport']",255959475,53248834,309208309
+2014,Twentieth Century Fox,"['Drama', 'Romance']",124872350,182294484,307166834
+2006,Sony Pictures Entertainment (SPE),"['Biography', 'Drama']",163566459,143561166,307127625
+2012,DreamWorks,"['Action', 'Adventure', 'Animation', 'Comedy', 'Drama', 'Family', 'Fantasy']",103412758,203528912,306941670
+2002,Miramax,"['Comedy', 'Crime', 'Musical']",170687518,136089214,306776732
+2017,Warner Bros.,"['Horror', 'Mystery', 'Thriller']",102092201,204423683,306515884
+2016,Sony Pictures Entertainment (SPE),"['Drama', 'Romance', 'Sci-Fi', 'Thriller']",100014699,203129453,303144152
+2009,Paramount Pictures,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",150201498,152267519,302469017
+2012,Warner Bros.,"['Action', 'Adventure', 'Fantasy']",83670083,218300000,301970083
+2007,Twentieth Century Fox,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",131921738,169991393,301913131
+1991,TriStar Pictures,"['Adventure', 'Comedy', 'Family', 'Fantasy']",119654823,181200000,300854823
+1978,Warner Bros.,"['Action', 'Adventure', 'Sci-Fi']",134451603,166000000,300451603
+2004,Universal Pictures,"['Action', 'Adventure', 'Fantasy', 'Thriller']",120177084,179980554,300157638
+1999,Sony Pictures Entertainment (SPE),"['Adventure', 'Comedy', 'Family', 'Fantasy']",140035367,160100000,300135367
+1997,Sony Pictures Entertainment (SPE),"['Comedy', 'Drama', 'Romance']",127120029,172168576,299288605
+2008,Twentieth Century Fox,"['Adventure', 'Animation', 'Comedy', 'Drama', 'Family', 'Fantasy', 'Music']",154529439,144043360,298572799
+2018,Warner Bros.,"['Action', 'Comedy', 'Crime', 'Thriller']",140218711,157500000,297718711
+2015,Lionsgate,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",130179072,166823455,297002527
+2002,New Line Cinema,"['Action', 'Adventure', 'Comedy', 'Crime']",213307889,83630912,296938801
+1984,Columbia Pictures,"['Action', 'Comedy', 'Fantasy', 'Sci-Fi']",243578797,53000000,296578797
+2016,Twentieth Century Fox,"['Adventure', 'Drama', 'Family', 'Fantasy', 'Thriller']",87242834,209239612,296482446
+2000,Twentieth Century Fox,"['Action', 'Adventure', 'Sci-Fi']",157299718,139039810,296339528
+2017,Twentieth Century Fox,"['Adventure', 'Animation', 'Comedy', 'Drama', 'Family']",84410380,211658819,296069199
+2010,Paramount Pictures,"['Mystery', 'Thriller']",128012934,166792763,294805697
+2007,DreamWorks,"['Adventure', 'Animation', 'Comedy', 'Drama', 'Family']",126631277,166883059,293514336
+2010,Sony Pictures Entertainment (SPE),"['Action', 'Thriller']",118311368,175191986,293503354
+2009,Walt Disney Studios Motion Pictures,"['Action', 'Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Sci-Fi']",119436770,173381128,292817898
+2006,Warner Bros.,"['Crime', 'Drama', 'Thriller']",132384315,159081058,291465373
+2000,DreamWorks Distribution,"['Drama', 'Horror', 'Mystery', 'Thriller']",155464351,135956000,291420351
+2004,Universal Pictures,"['Action', 'Mystery', 'Thriller']",176241941,114593328,290835269
+2010,Warner Bros.,"['Comedy', 'Drama', 'Romance']",95347692,195397363,290745055
+1998,Miramax,"['Comedy', 'Drama', 'History', 'Romance']",100317794,189000000,289317794
+2014,Lionsgate,"['Action', 'Adventure', 'Mystery', 'Sci-Fi']",150947895,137937923,288885818
+2005,New Line Cinema,"['Comedy', 'Romance']",209255921,79211724,288467645
+2011,Universal Pictures,"['Comedy', 'Romance']",169106725,119276798,288383523
+2001,Universal Pictures,['Comedy'],145103595,142450000,287553595
+2015,Universal Pictures,"['Comedy', 'Music']",184296230,102847849,287144079
+1999,Warner Bros.,"['Crime', 'Drama', 'Fantasy', 'Mystery']",136801374,150000000,286801374
+2013,Universal Pictures,"['Action', 'Adventure', 'Sci-Fi']",89107235,197061337,286168572
+2013,TriStar Pictures,"['Action', 'Drama', 'Sci-Fi']",93050117,193090583,286140700
+1998,Warner Bros.,"['Action', 'Crime', 'Thriller']",130444603,155000000,285444603
+2013,Twentieth Century Fox,"['Adventure', 'Animation', 'Comedy', 'Family', 'Sport']",83028128,199542554,282570682
+2017,Universal Pictures,"['Horror', 'Thriller']",138291365,140163052,278454417
+2000,Miramax,['Comedy'],157019771,121000000,278019771
+2002,Revolution Studios,"['Action', 'Adventure', 'Thriller']",142109382,135339000,277448382
+2012,Universal Pictures,"['Action', 'Adventure', 'Thriller']",113203870,162940880,276144750
+2014,Twentieth Century Fox,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'History', 'Sci-Fi']",111506430,164191609,275698039
+2002,Warner Bros.,"['Adventure', 'Comedy', 'Family', 'Fantasy', 'Mystery']",153294164,122356539,275650703
+2012,Walt Disney Studios Motion Pictures,"['Biography', 'Drama', 'History', 'War']",182207973,93085477,275293450
+2001,Paramount Pictures,"['Action', 'Adventure', 'Fantasy', 'Thriller']",131168070,143535270,274703340
+2010,Lionsgate,"['Action', 'Adventure', 'Thriller']",103068524,171401870,274470394
+2013,Sony Pictures Entertainment (SPE),"['Adventure', 'Animation', 'Comedy', 'Drama', 'Family', 'Fantasy', 'Sci-Fi']",119793567,154532382,274325949
+1996,Universal Pictures,"['Comedy', 'Romance', 'Sci-Fi']",128814019,145147000,273961019
+1996,Sony Pictures Entertainment (SPE),"['Comedy', 'Drama', 'Romance', 'Sport']",153952592,119600000,273552592
+2003,Sony Pictures Entertainment (SPE),"['Action', 'Comedy', 'Crime', 'Thriller']",138608444,134731112,273339556
+2002,Walt Disney Studios Motion Pictures,"['Adventure', 'Animation', 'Comedy', 'Drama', 'Family', 'Fantasy', 'Sci-Fi']",145794338,127349813,273144151
+1991,Orion Pictures,"['Crime', 'Drama', 'Horror', 'Thriller']",130742922,142000000,272742922
+2010,Sony Pictures Entertainment (SPE),['Comedy'],162001186,109456115,271457301
+2014,Universal Pictures,['Comedy'],150157400,120507734,270665134
+2012,Warner Bros.,"['Comedy', 'Crime']",150394119,119600000,269994119
+2008,Warner Bros.,['Drama'],148095302,121862926,269958228
+2008,Warner Bros.,"['Action', 'Adventure', 'Drama', 'Fantasy', 'History']",94784201,175000000,269784201
+2007,Universal Pictures,"['Biography', 'Crime', 'Drama']",130164645,139590785,269755430
+2013,Twentieth Century Fox,"['Action', 'Adventure', 'Animation', 'Family', 'Fantasy', 'Mystery']",107518682,160907952,268426634
+2009,Walt Disney Studios Motion Pictures,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Musical', 'Romance']",104400899,162644866,267045765
+1992,Warner Bros.,"['Action', 'Crime', 'Fantasy']",162902340,103990656,266892996
+2003,Sony Pictures Entertainment (SPE),"['Comedy', 'Drama', 'Romance']",124728738,140600000,265328738
+2008,Universal Pictures,"['Action', 'Adventure', 'Sci-Fi']",134806913,129964083,264770996
+1995,Universal Pictures,"['Action', 'Adventure', 'Sci-Fi']",88246220,175972000,264218220
+2000,Sony Pictures Entertainment (SPE),"['Action', 'Adventure', 'Comedy', 'Crime', 'Thriller']",125305545,138800000,264105545
+1995,Sony Pictures Entertainment (SPE),"['Adventure', 'Comedy', 'Family', 'Fantasy']",100499940,162322000,262821940
+2006,Twentieth Century Fox,['Comedy'],128505958,134046935,262552893
+2005,Twentieth Century Fox,"['Adventure', 'Animation', 'Comedy', 'Family', 'Romance', 'Sci-Fi']",128200012,134311478,262511490
+1990,Sony Pictures Entertainment (SPE),"['Action', 'Adventure', 'Sci-Fi']",119412921,141905000,261317921
+2013,Walt Disney Studios Motion Pictures,"['Action', 'Adventure', 'Western']",89302115,171200000,260502115
+2011,Paramount Pictures,"['Action', 'Mystery', 'Sci-Fi', 'Thriller']",127004179,133091807,260095986
+2017,Warner Bros.,"['Action', 'Drama', 'Mystery', 'Sci-Fi', 'Thriller']",92054159,167280389,259334548
+2003,Sony Pictures Entertainment (SPE),"['Action', 'Adventure', 'Comedy', 'Crime']",100830111,158345677,259175788
+2007,New Line Cinema,"['Action', 'Comedy', 'Crime', 'Thriller']",140125968,117971154,258097122
+2014,Warner Bros.,"['Horror', 'Mystery', 'Thriller']",84273813,173305469,257579282
+2003,Walt Disney Studios Motion Pictures,"['Drama', 'Mystery', 'Thriller']",114197520,142500000,256697520
+2000,Universal Pictures,"['Biography', 'Drama']",125595205,130676081,256271286
+2018,Universal Pictures,"['Crime', 'Horror', 'Thriller']",159342015,96272926,255614941
+2019,Universal Pictures,"['Horror', 'Mystery', 'Thriller']",175084580,80100902,255185482
+1993,TriStar Pictures,"['Action', 'Adventure', 'Thriller']",84049211,170951000,255000211
+2008,Walt Disney Studios Motion Pictures,"['Comedy', 'Drama', 'Family', 'Music', 'Musical', 'Romance']",90559416,162349761,252909177
+1997,Walt Disney Studios Motion Pictures,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Musical', 'Romance']",99112101,153600000,252712101
+2010,Paramount Pictures,"['Drama', 'Western']",171243005,81033922,252276927
+2013,Sony Pictures Entertainment (SPE),"['Crime', 'Drama']",150117807,101054000,251171807
+1998,Walt Disney Studios Motion Pictures,"['Action', 'Thriller']",111549836,139299953,250849789
+1998,Warner Bros.,"['Comedy', 'Drama', 'Romance']",115821495,135000000,250821495
+1998,Sony Pictures Entertainment (SPE),"['Action', 'Adventure', 'Comedy', 'Romance', 'Thriller', 'Western']",94095523,156193000,250288523
+2002,DreamWorks Distribution,"['Horror', 'Mystery']",129128133,120220800,249348933
+1999,Artisan Entertainment,"['Horror', 'Mystery']",140539099,108100000,248639099
+2000,Walt Disney Studios Motion Pictures,"['Drama', 'Mystery', 'Sci-Fi', 'Thriller']",95011339,153106782,248118121
+1994,New Line Cinema,['Comedy'],127175374,120100000,247275374
+2019,Universal Pictures,"['Drama', 'Sci-Fi', 'Thriller']",111048468,135950571,246999039
+2013,Sony Pictures Entertainment (SPE),['Comedy'],133668525,113315753,246984278
+2015,Twentieth Century Fox,"['Adventure', 'Animation', 'Comedy', 'Drama', 'Family']",130178411,116054702,246233113
+1972,Paramount Pictures,"['Crime', 'Drama']",134966411,111154575,246120986
+2011,Paramount Pictures,"['Action', 'Adventure', 'Animation', 'Comedy', 'Family', 'Western']",123477607,122246996,245724603
+1997,Paramount Pictures,"['Action', 'Crime', 'Sci-Fi', 'Thriller']",112276146,133400000,245676146
+2016,Paramount Pictures,"['Action', 'Adventure', 'Comedy', 'Sci-Fi']",82051601,163572247,245623848
+2003,Universal Pictures,"['Action', 'Sci-Fi']",132177234,113107931,245285165
+1990,Universal Pictures,"['Adventure', 'Comedy', 'Sci-Fi', 'Western']",88277583,156800000,245077583
+1998,New Line Cinema,"['Action', 'Comedy', 'Crime', 'Thriller']",141186864,103534200,244721064
+2008,Warner Bros.,"['Action', 'Adventure', 'Family', 'Fantasy', 'Sci-Fi']",101704370,142528318,244232688
+1992,Columbia Pictures,"['Drama', 'Thriller']",141340178,101900000,243240178
+2009,Sony Pictures Entertainment (SPE),"['Adventure', 'Animation', 'Comedy', 'Drama', 'Family', 'Fantasy', 'Sci-Fi']",124870275,118135851,243006126
+2002,Universal Pictures,"['Drama', 'Music']",116750901,126124177,242875078
+1996,Warner Bros.,"['Action', 'Crime', 'Thriller']",101295562,141000000,242295562
+2016,Warner Bros.,"['Biography', 'Drama']",125070033,115727590,240797623
+2006,Revolution Studios,"['Comedy', 'Drama', 'Fantasy', 'Romance']",137355633,103329693,240685326
+1990,Twentieth Century Fox,"['Action', 'Thriller']",117540947,122490327,240031274
+2013,Walt Disney Studios Motion Pictures,"['Adventure', 'Animation', 'Comedy', 'Family', 'Sport']",90288712,148970000,239258712
+2018,Warner Bros.,"['Comedy', 'Drama', 'Romance']",174532921,64006277,238539198
+1997,Warner Bros.,"['Action', 'Sci-Fi']",107353792,130881927,238235719
+2019,Focus Features,"['Drama', 'Romance']",96854135,96941361,237860050
+2000,Walt Disney Studios Motion Pictures,"['Action', 'Crime', 'Thriller']",101648571,135553728,237202299
+2012,The Weinstein Company,"['Comedy', 'Drama', 'Romance']",132092958,104319495,236412453
+2003,Universal Pictures,"['Action', 'Crime', 'Thriller']",127154901,109195760,236350661
+2016,Twentieth Century Fox,"['Biography', 'Drama', 'History']",169607287,66349611,235956898
+2015,Twentieth Century Fox,"['Action', 'Comedy']",110825712,124840507,235666219
+1999,Universal Pictures,['Comedy'],102561004,132922000,235483004
+1999,Sony Pictures Entertainment (SPE),"['Comedy', 'Drama']",163479795,71322100,234801895
+2003,Universal Pictures,['Comedy'],104565114,128157821,232722935
+2011,Sony Pictures Entertainment (SPE),"['Crime', 'Drama', 'Mystery', 'Thriller']",102515793,130101637,232617430
+2007,Fox Searchlight Pictures,"['Comedy', 'Drama']",143495265,88877416,232372681
+2012,Warner Bros.,"['Biography', 'Drama', 'Thriller']",136025503,96300000,232325503
+2008,Warner Bros.,"['Action', 'Adventure', 'Comedy']",130319208,100366245,230685453
+1996,Twentieth Century Fox,"['Action', 'Comedy', 'Crime']",159582188,70348583,229930771
+2016,Sony Pictures Entertainment (SPE),"['Action', 'Comedy', 'Fantasy', 'Sci-Fi']",128350574,100796935,229147509
+2007,Sony Pictures Entertainment (SPE),"['Action', 'Fantasy', 'Thriller']",115802596,112935797,228738393
+1993,TriStar Pictures,"['Comedy', 'Drama', 'Romance']",126808165,101119000,227927165
+2011,Sony Pictures Entertainment (SPE),"['Action', 'Comedy', 'Crime']",98780042,129037206,227817248
+2017,TriStar Pictures,"['Action', 'Crime', 'Drama', 'Music', 'Thriller']",107825862,119119225,226945087
+2011,Relativity Media,"['Action', 'Drama', 'Fantasy', 'Romance']",83504017,143400000,226904017
+2008,Twentieth Century Fox,"['Action', 'Crime', 'Thriller']",145000989,81836771,226837760
+2010,Twentieth Century Fox,"['Adventure', 'Family', 'Fantasy']",88768303,137728906,226497209
+2019,Twentieth Century Fox,"['Action', 'Biography', 'Drama', 'Sport']",117624357,107883853,225508210
+2010,Sony Pictures Entertainment (SPE),"['Biography', 'Drama']",96962694,127957681,224920375
+2000,DreamWorks Distribution,"['Adventure', 'Animation', 'Comedy', 'Drama', 'Family']",106834564,118000000,224834564
+1997,Walt Disney Studios Motion Pictures,"['Action', 'Crime', 'Thriller']",101117573,122894661,224012234
+2003,New Line Cinema,"['Adventure', 'Comedy', 'Family', 'Fantasy', 'Romance']",176630408,47223328,223853736
+1994,Warner Bros.,"['Drama', 'Fantasy', 'Horror']",105264608,118400000,223664608
+2008,Warner Bros.,"['Comedy', 'Romance']",97690976,125550661,223241637
+2014,Universal Pictures,"['Action', 'Mystery', 'Thriller']",92168600,130641000,222809600
+2004,Lionsgate,"['Documentary', 'Drama', 'War']",119194771,103252111,222446882
+1999,Warner Bros.,"['Action', 'Comedy', 'Sci-Fi', 'Western']",113804681,108300000,222104681
+2003,Dimension Films,['Comedy'],110003217,110670000,220673217
+2004,DreamWorks Distribution,"['Action', 'Crime', 'Drama', 'Thriller']",101005703,119234222,220239925
+2007,Universal Pictures,"['Comedy', 'Romance']",148768917,71153500,219922417
+2011,Warner Bros.,"['Action', 'Adventure', 'Sci-Fi']",116601172,103250000,219851172
+2009,Universal Pictures,"['Comedy', 'Drama', 'Romance']",112735375,106368280,219103655
+2013,Sony Pictures Entertainment (SPE),"['Action', 'Biography', 'Crime', 'Drama', 'Thriller']",107100855,111690956,218791811
+1998,DreamWorks Distribution,"['Adventure', 'Animation', 'Drama', 'Family', 'Fantasy', 'Musical']",101413188,117200000,218613188
+2017,Sony Pictures Entertainment (SPE),"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Sci-Fi']",86089513,131687133,217776646
+2016,Warner Bros.,"['Action', 'Comedy', 'Crime']",127440871,89531672,216972543
+2004,Warner Bros.,"['Drama', 'Sport']",100492203,116271443,216763646
+2011,Walt Disney Studios Motion Pictures,['Drama'],169708112,46931000,216639112
+1988,Universal Pictures,"['Comedy', 'Crime']",111938388,104676000,216614388
+2019,Sony Pictures Entertainment (SPE),"['Drama', 'Romance']",108101214,108500000,216601214
+2010,Warner Bros.,"['Comedy', 'Romance']",110485654,106000000,216485654
+2011,Sony Pictures Entertainment (SPE),"['Comedy', 'Romance']",100292856,115904636,216197492
+1994,Paramount Pictures,"['Action', 'Crime', 'Drama', 'Thriller']",122187717,93700000,215887717
+2015,Universal Pictures,['Comedy'],81476385,134387221,215863606
+1992,Columbia Pictures,"['Drama', 'Fantasy', 'Horror', 'Romance']",82522790,133339902,215862692
+2000,Sony Pictures Entertainment (SPE),"['Action', 'Drama', 'History', 'War']",113330342,101964000,215294342
+2011,Sony Pictures Entertainment (SPE),"['Comedy', 'Romance']",103028109,111917482,214945591
+2018,Metro-Goldwyn-Mayer (MGM),"['Drama', 'Sport']",115715889,98500000,214215889
+2009,Universal Pictures,"['Action', 'Biography', 'Crime', 'Drama', 'History']",97104620,117000000,214104620
+2002,Universal Pictures,"['Action', 'Mystery', 'Thriller']",121661683,92372541,214034224
+1994,Warner Bros.,"['Drama', 'Thriller']",83015089,131000000,214015089
+1994,Miramax,"['Crime', 'Drama']",107928762,106000000,213928762
+2004,Miramax,"['Biography', 'Drama']",102610330,111109612,213719942
+2000,Sony Pictures Classics,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Romance']",128078872,85446864,213525736
+2014,Walt Disney Studios Motion Pictures,"['Adventure', 'Comedy', 'Drama', 'Fantasy', 'Musical']",128002372,84900000,212902372
+2008,Walt Disney Studios Motion Pictures,"['Adventure', 'Comedy', 'Family', 'Fantasy', 'Romance', 'Sci-Fi']",110101975,102772889,212874864
+2000,Warner Bros.,"['Action', 'Comedy', 'Crime', 'Romance']",106807667,105935053,212742720
+1999,Twentieth Century Fox,"['Action', 'Crime', 'Romance', 'Thriller']",87704396,124700000,212404396
+2014,Sony Pictures Entertainment (SPE),"['Action', 'Drama', 'War']",85817906,126004791,211822697
+2011,Sony Pictures Entertainment (SPE),"['Action', 'Sci-Fi']",83552429,128266925,211819354
+2010,Warner Bros.,"['Comedy', 'Drama']",100539043,111241781,211780824
+2003,Twentieth Century Fox,"['Action', 'Adventure', 'Drama', 'War']",93927920,117694615,211622535
+2004,Paramount Pictures,"['Adventure', 'Comedy', 'Family', 'Fantasy']",118634549,92833686,211468235
+2009,TriStar Pictures,"['Action', 'Sci-Fi', 'Thriller']",115646235,95242715,210888950
+2001,Miramax,"['Horror', 'Mystery', 'Thriller']",96522687,113424350,209947037
+2011,Warner Bros.,"['Comedy', 'Crime']",117538559,92300000,209838559
+2002,Universal Pictures,"['Crime', 'Drama', 'Thriller']",93149898,116046400,209196298
+2015,Walt Disney Studios Motion Pictures,"['Action', 'Adventure', 'Family', 'Fantasy', 'Mystery', 'Sci-Fi']",93436322,115599346,209035668
+2012,Universal Pictures,"['Action', 'Thriller']",126373434,81702771,208076205
+2003,Sony Pictures Entertainment (SPE),"['Action', 'Adventure', 'Crime', 'Thriller']",116934650,90790989,207725639
+2001,Universal Pictures,"['Action', 'Crime', 'Thriller']",144533925,62771584,207305509
+2011,Paramount Pictures,"['Horror', 'Mystery']",104028807,103011037,207039844
+1999,Paramount Pictures,"['Fantasy', 'Horror', 'Mystery']",101071502,105000000,206071502
+2006,Universal Pictures,"['Comedy', 'Drama', 'Romance']",118703275,86964935,205668210
+2005,Sony Pictures Entertainment (SPE),"['Comedy', 'Crime']",110332737,94349162,204681899
+2010,Sony Pictures Entertainment (SPE),"['Biography', 'Drama', 'Romance']",80574010,124020006,204594016
+2008,Sony Pictures Entertainment (SPE),['Comedy'],100018837,104294563,204313400
+2019,United Artists Releasing,"['Animation', 'Comedy', 'Family', 'Fantasy', 'Horror']",100723831,103060014,203783845
+2010,Warner Bros.,"['Adventure', 'Animation', 'Comedy', 'Family']",100246011,103263363,203509374
+2001,Paramount Pictures,"['Fantasy', 'Mystery', 'Romance', 'Sci-Fi', 'Thriller']",100618344,102769997,203388341
+2016,Paramount Pictures,"['Drama', 'Sci-Fi']",100546139,102842047,203388186
+1998,Universal Pictures,"['Biography', 'Comedy', 'Drama', 'Romance']",135026902,67266000,202292902
+1990,New Line Cinema,"['Action', 'Adventure', 'Comedy', 'Family', 'Sci-Fi']",135265915,66700000,201965915
+1990,Universal Pictures,"['Action', 'Comedy', 'Crime']",91457688,110500000,201957688
+2020,Warner Bros.,"['Action', 'Adventure', 'Comedy', 'Crime']",84158461,117700000,201858461
+2015,Universal Pictures,"['Biography', 'Drama', 'History', 'Music']",161197785,40437206,201634991
+2012,Sony Pictures Entertainment (SPE),"['Action', 'Comedy', 'Crime']",138447667,63137661,201585328
+2008,United Artists,"['Drama', 'History', 'Thriller', 'War']",83077833,118467684,201545517
+2006,Sony Pictures Entertainment (SPE),"['Adventure', 'Animation', 'Comedy', 'Drama', 'Family']",85105259,115706430,200811689
+2001,Warner Bros.,"['Action', 'Comedy', 'Family', 'Fantasy']",93385515,107301977,200687492
+1990,Paramount Pictures,"['Action', 'Adventure', 'Thriller']",122012643,78500000,200512643
+2002,Warner Bros.,"['Comedy', 'Romance']",93354851,105688620,199043471
+2010,Summit Entertainment,"['Action', 'Comedy', 'Crime', 'Thriller']",90380162,108626225,199006387
+2005,Walt Disney Studios Motion Pictures,"['Action', 'Comedy', 'Drama', 'Family']",113086868,85550000,198636868
+2004,Sony Pictures Entertainment (SPE),"['Comedy', 'Drama', 'Romance']",120908074,77612860,198520934
+2018,Walt Disney Studios Motion Pictures,"['Adventure', 'Animation', 'Comedy', 'Drama', 'Family', 'Fantasy']",99215042,98529335,197744377
+2003,Dimension Films,"['Action', 'Adventure', 'Comedy', 'Family', 'Sci-Fi']",111761982,85339696,197101678
+2002,Sony Pictures Entertainment (SPE),"['Crime', 'Drama', 'Thriller']",96397334,100682212,197079546
+2014,Twentieth Century Fox,"['Comedy', 'Romance']",83911193,112799203,196710396
+2007,Paramount Pictures,"['Action', 'Adventure', 'Animation', 'Fantasy']",82280579,114113166,196393745
+2012,Screen Gems,"['Drama', 'Romance']",125014030,71100540,196114570
+2003,Revolution Studios,['Comedy'],135645823,60100000,195745823
+2008,DreamWorks,"['Action', 'Comedy', 'War']",110515313,85187650,195702963
+2019,Paramount Pictures,"['Biography', 'Drama', 'Musical']",96368160,98952240,195320400
+2002,Paramount Pictures,"['Action', 'Drama', 'Thriller', 'War']",118907036,75014336,193921372
+2009,Paramount Pictures,"['Horror', 'Mystery']",107918810,85436990,193355800
+2014,Sony Pictures Entertainment (SPE),"['Action', 'Crime', 'Thriller']",101530738,90800000,192330738
+2019,Warner Bros.,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Sci-Fi']",105806508,86500000,192306508
+1991,Paramount Pictures,"['Comedy', 'Fantasy']",113502426,78000000,191502426
+2005,Paramount Pictures,"['Comedy', 'Crime', 'Sport']",158119460,33347096,191466556
+1994,Walt Disney Studios Motion Pictures,"['Comedy', 'Drama', 'Family', 'Fantasy']",145539357,45000000,190539357
+2003,Twentieth Century Fox,"['Comedy', 'Family']",138614544,51924086,190538630
+2018,Sony Pictures Entertainment (SPE),"['Action', 'Crime', 'Thriller']",102084362,88315795,190400157
+2004,Sony Pictures Entertainment (SPE),"['Horror', 'Mystery', 'Thriller']",110359362,76921753,187281115
+2007,Universal Pictures,"['Comedy', 'Romance']",120059556,67074561,187134117
+2005,Twentieth Century Fox,"['Biography', 'Drama', 'Music', 'Romance']",119519402,67278584,186797986
+2001,Walt Disney Studios Motion Pictures,"['Action', 'Adventure', 'Animation', 'Family', 'Fantasy', 'Sci-Fi']",84056472,101997253,186053725
+2006,Universal Pictures,"['Crime', 'Drama', 'Mystery', 'Thriller']",88513495,97490096,186003591
+1998,Walt Disney Studios Motion Pictures,"['Comedy', 'Sport']",161491646,24500000,185991646
+2017,Universal Pictures,"['Comedy', 'Music']",104897530,80502815,185400345
+2009,Warner Bros.,"['Action', 'Drama', 'Mystery', 'Sci-Fi']",107509799,77873014,185382813
+2011,Universal Pictures,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",108085305,75868840,183954145
+2016,STX Entertainment,['Comedy'],113257297,70678777,183936074
+2009,Sony Pictures Entertainment (SPE),"['Action', 'Comedy', 'Crime', 'Family']",146336178,37012251,183348429
+1992,Paramount Pictures,"['Comedy', 'Music']",121697323,61400000,183097323
+1995,Walt Disney Studios Motion Pictures,"['Comedy', 'Drama', 'Romance']",81057016,101000000,182057016
+2002,DreamWorks Distribution,"['Crime', 'Drama', 'Thriller']",104454762,76546716,181001478
+2002,Universal Pictures,"['Action', 'Adventure', 'Fantasy']",91047077,89583830,180630907
+2002,Walt Disney Studios Motion Pictures,"['Comedy', 'Romance']",127223418,53399006,180622424
+2017,Paramount Pictures,['Comedy'],104029443,76584381,180613824
+2017,Twentieth Century Fox,['Drama'],81903458,98515818,180419276
+2003,Twentieth Century Fox,"['Action', 'Crime']",102543518,76636200,179179718
+1991,Columbia Pictures,"['Comedy', 'Western']",124033791,55000000,179033791
+2008,DreamWorks,"['Action', 'Mystery', 'Thriller']",101440743,77326640,178767383
+2004,Universal Pictures,"['Comedy', 'Romance']",88097164,90214565,178311729
+2006,Dimension Films,['Comedy'],90710620,87552000,178262620
+2005,Focus Features,"['Drama', 'Romance']",83043761,95018998,178062759
+1992,Paramount Pictures,"['Action', 'Thriller']",83351587,94700000,178051587
+1999,Paramount Pictures,"['Crime', 'Drama', 'Mystery', 'Thriller']",116741558,61100000,177841558
+2010,Paramount Pictures,"['Horror', 'Mystery']",84752907,92759125,177512032
+2005,Universal Pictures,"['Comedy', 'Romance']",109449237,67929408,177378645
+2013,The Weinstein Company,"['Biography', 'Drama']",116632095,60681700,177313795
+1999,DreamWorks Distribution,"['Fantasy', 'Horror', 'Mystery', 'Thriller']",91411151,85900000,177311151
+1982,Columbia Pictures,"['Comedy', 'Drama', 'Romance']",177200000,177200000,177200000
+1993,Columbia Pictures,"['Action', 'Crime', 'Drama', 'Thriller']",102314823,74682345,176997168
+1999,Warner Bros.,"['Comedy', 'Crime']",106885658,70000000,176885658
+2001,Twentieth Century Fox,"['Comedy', 'Family', 'Fantasy']",112952899,63151445,176104344
+2003,Paramount Pictures,"['Action', 'Crime', 'Thriller']",106128601,69941570,176070171
+2007,Warner Bros.,"['Adventure', 'Comedy', 'Drama']",93466502,81906000,175372502
+1991,Twentieth Century Fox,"['Drama', 'Thriller']",101599005,73400000,174999005
+2011,Universal Pictures,"['Action', 'Sci-Fi', 'Thriller', 'Western']",100240551,74581774,174822325
+2018,Warner Bros.,"['Crime', 'Drama', 'Thriller']",103804407,71000000,174804407
+1997,Walt Disney Studios Motion Pictures,"['Action', 'Adventure', 'Comedy', 'Family', 'Romance']",105263257,69200000,174463257
+2007,Universal Pictures,"['Comedy', 'Family', 'Fantasy']",100462298,73978426,174440724
+2013,Universal Pictures,"['Comedy', 'Crime', 'Drama']",134506920,39458090,173965010
+2000,Twentieth Century Fox,"['Action', 'Comedy', 'Crime']",117559438,56400000,173959438
+2013,Paramount Pictures,['Comedy'],127352707,46297224,173649931
+2015,Warner Bros.,"['Action', 'Drama', 'Sport']",109767581,63800000,173567581
+1996,Dimension Films,"['Horror', 'Mystery']",103046663,70000000,173046663
+2003,Miramax,"['Adventure', 'Drama', 'History', 'Romance', 'War']",95636509,77377000,173013509
+2001,Revolution Studios,"['Action', 'Drama', 'History', 'War']",108638745,64350906,172989651
+2002,Walt Disney Studios Motion Pictures,"['Comedy', 'Family', 'Fantasy']",139236327,33618738,172855065
+1997,Dimension Films,"['Horror', 'Mystery']",101363301,71000000,172363301
+2009,Universal Pictures,['Comedy'],109204945,62639895,171844840
+1998,DreamWorks Distribution,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",90757863,81000000,171757863
+2010,Paramount Pictures,"['Action', 'Comedy', 'Documentary']",117229692,54456100,171685792
+2002,Sony Pictures Entertainment (SPE),"['Comedy', 'Romance']",126293452,44976083,171269535
+1997,Warner Bros.,"['Drama', 'Mystery', 'Sci-Fi', 'Thriller']",100920329,70200000,171120329
+2007,Sony Pictures Entertainment (SPE),['Comedy'],121463226,49349300,170812526
+2010,Sony Pictures Entertainment (SPE),"['Action', 'Comedy', 'Crime']",119219978,51238944,170458922
+2013,FilmDistrict,"['Action', 'Thriller']",98925640,71344561,170270201
+2004,Warner Bros.,"['Comedy', 'Crime']",88237754,82030996,170268750
+2011,Sony Pictures Entertainment (SPE),"['Comedy', 'Family', 'Fantasy', 'Romance']",80360843,89491916,169852759
+2014,Universal Pictures,['Comedy'],86208010,83629000,169837010
+2000,Walt Disney Studios Motion Pictures,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",89636687,80025000,169661687
+2004,Twentieth Century Fox,"['Comedy', 'Sport']",114326736,54096491,168423227
+2010,Twentieth Century Fox,"['Action', 'Thriller']",81562942,86242524,167805466
+1987,Walt Disney Studios Motion Pictures,"['Comedy', 'Drama', 'Family']",167780960,167780960,167780960
+2012,Warner Bros.,"['Comedy', 'Drama']",113721571,54018390,167739961
+2009,Paramount Pictures,"['Comedy', 'Drama', 'Romance']",83823381,83019358,166842739
+2000,Universal Pictures,"['Comedy', 'Romance', 'Sci-Fi']",123309890,43030000,166339890
+2001,Walt Disney Studios Motion Pictures,"['Comedy', 'Family', 'Romance']",108248956,57086197,165335153
+2011,Walt Disney Studios Motion Pictures,"['Adventure', 'Comedy', 'Family', 'Musical']",88631237,76553000,165184237
+2003,Walt Disney Studios Motion Pictures,['Comedy'],132716677,32013002,164729679
+2003,Revolution Studios,"['Comedy', 'Family']",104297061,60136806,164433867
+2006,Sony Pictures Entertainment (SPE),"['Adventure', 'Comedy', 'Crime', 'Mystery']",82226474,81889423,164115897
+2008,Warner Bros.,"['Comedy', 'Drama', 'Romance']",120146040,43966681,164112721
+1999,Warner Bros.,"['Action', 'Adventure', 'Animation', 'Family', 'Fantasy', 'Sci-Fi']",85744662,77900000,163644662
+2006,Sony Pictures Entertainment (SPE),"['Comedy', 'Sport']",148213377,15148718,163362095
+1990,Walt Disney Studios Motion Pictures,"['Action', 'Comedy', 'Crime', 'Music', 'Romance', 'Thriller']",103738726,59000000,162738726
+2016,Sony Pictures Entertainment (SPE),"['Action', 'Adventure', 'Western']",93432655,68927981,162360636
+2013,FilmDistrict,"['Horror', 'Mystery', 'Thriller']",83586447,78332871,161919318
+2000,Dimension Films,"['Horror', 'Mystery']",89143175,72691101,161834276
+2012,Paramount Pictures,"['Drama', 'Thriller']",93772375,68000000,161772375
+1999,Paramount Pictures,"['Action', 'Crime', 'Drama', 'Thriller']",81526121,80100000,161626121
+2014,Universal Pictures,"['Action', 'Biography', 'Drama', 'Sport', 'War']",115637895,45821402,161459297
+2003,Walt Disney Studios Motion Pictures,"['Comedy', 'Family', 'Fantasy', 'Music', 'Romance']",110230332,50616000,160846332
+2007,DreamWorks,"['Comedy', 'Romance']",95673607,64140883,159814490
+2008,Sony Pictures Entertainment (SPE),"['Crime', 'Drama', 'History', 'Thriller']",81159365,78649005,159808370
+1998,Sony Pictures Entertainment (SPE),"['Comedy', 'Drama']",91137662,68573131,159710793
+2016,Screen Gems,"['Crime', 'Horror', 'Thriller']",89217875,68543127,157761002
+2019,STX Entertainment,"['Comedy', 'Crime', 'Drama']",104963598,52600000,157563598
+2010,Warner Bros.,"['Action', 'Adventure', 'Drama', 'Thriller']",94835059,62272696,157107755
+2003,Warner Bros.,"['Crime', 'Drama', 'Mystery', 'Thriller']",90135191,66460000,156595191
+2005,New Line Cinema,"['Comedy', 'Romance']",82931301,72526026,155457327
+2016,Warner Bros.,"['Action', 'Thriller']",86260045,68900000,155160045
+2002,New Line Cinema,"['Action', 'Horror', 'Sci-Fi', 'Thriller']",82348319,72661713,155010032
+2002,Revolution Studios,"['Comedy', 'Drama', 'Romance']",94011225,60895468,154906693
+2013,Universal Pictures,"['Action', 'Biography', 'Drama', 'War']",125095601,29707311,154802912
+2014,Universal Pictures,"['Action', 'Comedy', 'Crime']",134938200,19530702,154468902
+2010,Warner Bros.,"['Crime', 'Drama', 'Thriller']",92186262,61839874,154026136
+2010,Twentieth Century Fox,"['Comedy', 'Crime', 'Romance', 'Thriller']",98711404,53552476,152263880
+2013,Paramount Pictures,['Comedy'],102003019,49823528,151826547
+1999,Paramount Pictures,"['Crime', 'Drama', 'Mystery', 'Thriller']",102705852,47000000,149705852
+2000,Twentieth Century Fox,['Comedy'],90570999,58700000,149270999
+2006,Paramount Pictures,"['Adventure', 'Comedy', 'Family', 'Fantasy']",82985708,65978114,148963822
+2003,Universal Pictures,"['Drama', 'History', 'Sport']",120277854,28058591,148336445
+2001,Miramax,"['Action', 'Adventure', 'Comedy', 'Family', 'Sci-Fi']",112719001,35215179,147934180
+2005,Lionsgate,"['Horror', 'Mystery']",87039965,60708540,147748505
+2007,DreamWorks,"['Comedy', 'Sport']",118594548,27115799,145710347
+2011,Warner Bros.,"['Comedy', 'Drama', 'Romance']",84351197,60700000,145051197
+2017,Lionsgate,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",85364450,56972790,142337240
+2001,Metro-Goldwyn-Mayer (MGM),"['Comedy', 'Romance']",96520674,45254005,141774679
+1988,Twentieth Century Fox,"['Action', 'Thriller']",83844093,57759104,141603197
+2004,Paramount Pictures,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",85417988,55649139,141067127
+1998,Paramount Pictures,"['Adventure', 'Animation', 'Comedy', 'Drama', 'Family', 'Musical']",100494675,40400000,140894675
+2015,Universal Pictures,"['Comedy', 'Drama', 'Romance']",110212700,30583093,140795793
+2016,Sony Pictures Entertainment (SPE),"['Adventure', 'Animation', 'Comedy', 'Fantasy']",97685686,43019636,140705322
+2017,Universal Pictures,"['Adventure', 'Comedy', 'Drama']",115171585,25380774,140552359
+1986,Orion Pictures,"['Drama', 'War']",138530565,15067,138545632
+2001,Revolution Studios,"['Comedy', 'Romance']",93607673,44700000,138307673
+2014,Twentieth Century Fox,"['Action', 'Comedy', 'Crime']",82390774,55834177,138224951
+2014,Sony Pictures Entertainment (SPE),"['Comedy', 'Drama', 'Family', 'Musical']",85911262,50942244,136853506
+2000,Walt Disney Studios Motion Pictures,"['Biography', 'Drama', 'Sport']",115719751,21051932,136771683
+2004,Walt Disney Studios Motion Pictures,"['Comedy', 'Family', 'Romance']",95170481,39564000,134734481
+1999,Walt Disney Studios Motion Pictures,"['Action', 'Adventure', 'Comedy', 'Crime', 'Family', 'Sci-Fi']",97403112,37000000,134403112
+2003,Universal Pictures,"['Adventure', 'Comedy', 'Family', 'Fantasy']",101149285,32811256,133960541
+2012,Sony Pictures Entertainment (SPE),"['Drama', 'History', 'Thriller', 'War']",95720716,37100000,132820716
+1992,Sony Pictures Entertainment (SPE),"['Comedy', 'Drama', 'Sport']",107533928,24906141,132440069
+2021,Universal Pictures,"['Horror', 'Thriller']",92002155,39645000,131647155
+2003,Paramount Pictures,"['Comedy', 'Music']",81261177,49834813,131095990
+2006,Paramount Pictures,"['Comedy', 'Romance']",88715192,41508966,130224158
+2004,Paramount Pictures,['Comedy'],86058055,44068222,130126277
+2009,Sony Pictures Entertainment (SPE),"['Biography', 'Drama', 'Romance']",94125426,35415096,129540522
+2009,Paramount Pictures,"['Action', 'Biography', 'Drama', 'Sport']",93617009,35573860,129190869
+2000,Warner Bros.,"['Action', 'Adventure', 'Thriller']",90464773,38419359,128884132
+1999,Paramount Pictures,"['Crime', 'Drama', 'Thriller']",81298265,47501244,128799509
+2008,Sony Pictures Entertainment (SPE),['Comedy'],100468793,27639418,128108211
+2013,Sony Pictures Entertainment (SPE),['Comedy'],101470202,24571120,126041322
+2019,STX Entertainment,"['Comedy', 'Drama']",108252517,17603663,125856180
+2003,Metro-Goldwyn-Mayer (MGM),['Comedy'],90186328,34728514,124914842
+2015,Universal Pictures,"['Action', 'Comedy', 'Crime']",91221830,33386608,124608438
+2006,Walt Disney Studios Motion Pictures,"['Adventure', 'Drama', 'Family']",81612565,38843429,120455994
+2002,Dimension Films,"['Action', 'Adventure', 'Comedy', 'Family', 'Sci-Fi']",85846429,33876929,119723358
+2013,Walt Disney Studios Motion Pictures,"['Biography', 'Comedy', 'Drama']",83301580,34566404,117867984
+2004,New Line Cinema,"['Drama', 'Romance']",81001787,36813370,117815157
+2003,New Line Cinema,"['Action', 'Horror']",82622655,34009973,116632628
+2002,Walt Disney Studios Motion Pictures,"['Adventure', 'Comedy', 'Family', 'Sport']",81172560,33862530,115035090
+2015,Warner Bros.,"['Comedy', 'Crime']",90411453,21300000,111711453
+2019,Universal Pictures,"['Adventure', 'Comedy']",83140306,27896926,111037232
+1983,Paramount Pictures,"['Comedy', 'Drama']",108423489,260,108423749
+1981,Warner Bros.,"['Action', 'Adventure', 'Sci-Fi']",108185706,108185706,108185706
+2003,New Line Cinema,"['Crime', 'Horror']",80571655,26792250,107363905
+1979,Twentieth Century Fox,"['Horror', 'Sci-Fi']",81900459,24385063,106285522
+2015,Universal Pictures,['Comedy'],87044645,17966408,105011053
+2001,Paramount Pictures,"['Action', 'Adventure', 'Animation', 'Comedy', 'Family', 'Sci-Fi']",80936232,22056304,102992536
+2014,TriStar Pictures,"['Biography', 'Drama', 'Family']",91443253,10539459,101982712
+2008,Sony Pictures Entertainment (SPE),"['Action', 'Comedy', 'Crime']",87341380,14283463,101624843
+2014,Warner Bros.,"['Comedy', 'Romance']",84525432,15850000,100375432
+2005,Revolution Studios,"['Adventure', 'Comedy', 'Family', 'Fantasy', 'Romance']",82674398,15244265,97918663
+2013,Warner Bros.,"['Biography', 'Drama', 'Sport']",95020213,2450488,97470701
+2012,Screen Gems,"['Comedy', 'Romance']",91547205,4523302,96070507
+2004,DreamWorks Distribution,['Comedy'],85288303,5421064,90709367
+1991,Paramount Pictures,"['Comedy', 'Crime']",86930411,86930411,86930411
+2018,Roadside Attractions,"['Biography', 'Drama', 'Family', 'Music']",83482352,2604529,86086881
+1979,Paramount Pictures,"['Adventure', 'Mystery', 'Sci-Fi']",82604699,82604699,82604699
