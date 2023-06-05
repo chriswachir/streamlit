@@ -1,0 +1,469 @@
+Year,Ceremony,Award,Winner,Name,Film
+1928,1,Actor,,Richard Barthelmess,The Noose
+1928,1,Actor,1.0,Emil Jannings,The Last Command
+1928,1,Actress,,Louise Dresser,A Ship Comes In
+1928,1,Actress,1.0,Janet Gaynor,7th Heaven
+1928,1,Actress,,Gloria Swanson,Sadie Thompson
+1929,2,Actor,,George Bancroft,Thunderbolt
+1929,2,Actor,1.0,Warner Baxter,In Old Arizona
+1929,2,Actor,,Chester Morris,Alibi
+1929,2,Actor,,Paul Muni,The Valiant
+1929,2,Actor,,Lewis Stone,The Patriot
+1929,2,Actress,,Ruth Chatterton,Madame X
+1929,2,Actress,,Betty Compson,The Barker
+1929,2,Actress,,Jeanne Eagels,The Letter
+1929,2,Actress,,Corinne Griffith,The Divine Lady
+1929,2,Actress,,Bessie Love,The Broadway Melody
+1929,2,Actress,1.0,Mary Pickford,Coquette
+1930,3,Actor,1.0,George Arliss,Disraeli
+1930,3,Actor,,George Arliss,The Green Goddess
+1930,3,Actor,,Wallace Beery,The Big House
+1930,3,Actor,,Maurice Chevalier,The Big Pond
+1930,3,Actor,,Ronald Colman,Bulldog Drummond
+1930,3,Actor,,Lawrence Tibbett,The Rogue Song
+1930,3,Actress,,Nancy Carroll,The Devil's Holiday
+1930,3,Actress,,Ruth Chatterton,Sarah and Son
+1930,3,Actress,,Greta Garbo,Anna Christie
+1930,3,Actress,1.0,Norma Shearer,The Divorcee
+1930,3,Actress,,Norma Shearer,Their Own Desire
+1930,3,Actress,,Gloria Swanson,The Trespasser
+1931,4,Actor,1.0,Lionel Barrymore,A Free Soul
+1931,4,Actor,,Jackie Cooper,Skippy
+1931,4,Actor,,Richard Dix,Cimarron
+1931,4,Actor,,Fredric March,The Royal Family of Broadway
+1931,4,Actor,,Adolphe Menjou,The Front Page
+1931,4,Actress,,Marlene Dietrich,Morocco
+1931,4,Actress,1.0,Marie Dressler,Min and Bill
+1931,4,Actress,,Irene Dunne,Cimarron
+1931,4,Actress,,Ann Harding,Holiday
+1931,4,Actress,,Norma Shearer,A Free Soul
+1932,5,Actor,1.0,Wallace Beery,The Champ
+1932,5,Actor,,Alfred Lunt,The Guardsman
+1932,5,Actor,1.0,Fredric March,Dr. Jekyll and Mr. Hyde
+1932,5,Actress,,Marie Dressler,Emma
+1932,5,Actress,,Lynn Fontanne,The Guardsman
+1932,5,Actress,1.0,Helen Hayes,The Sin of Madelon Claudet
+1933,6,Actor,,Leslie Howard,Berkeley Square
+1933,6,Actor,1.0,Charles Laughton,The Private Life of Henry VIII
+1933,6,Actor,,Paul Muni,I Am a Fugitive from a Chain Gang
+1933,6,Actress,1.0,Katharine Hepburn,Morning Glory
+1933,6,Actress,,May Robson,Lady for a Day
+1933,6,Actress,,Diana Wynyard,Cavalcade
+1934,7,Actor,1.0,Clark Gable,It Happened One Night
+1934,7,Actor,,Frank Morgan,The Affairs of Cellini
+1934,7,Actor,,William Powell,The Thin Man
+1934,7,Actress,1.0,Claudette Colbert,It Happened One Night
+1934,7,Actress,,Bette Davis,Of Human Bondage
+1934,7,Actress,,Grace Moore,One Night of Love
+1934,7,Actress,,Norma Shearer,The Barretts of Wimpole Street
+1935,8,Actor,,Clark Gable,Mutiny on the Bounty
+1935,8,Actor,,Charles Laughton,Mutiny on the Bounty
+1935,8,Actor,1.0,Victor McLaglen,The Informer
+1935,8,Actor,,Paul Muni,Black Fury
+1935,8,Actor,,Franchot Tone,Mutiny on the Bounty
+1935,8,Actress,,Elisabeth Bergner,Escape Me Never
+1935,8,Actress,,Claudette Colbert,Private Worlds
+1935,8,Actress,1.0,Bette Davis,Dangerous
+1935,8,Actress,,Katharine Hepburn,Alice Adams
+1935,8,Actress,,Miriam Hopkins,Becky Sharp
+1935,8,Actress,,Merle Oberon,The Dark Angel
+1936,9,Actor,,Gary Cooper,Mr. Deeds Goes to Town
+1936,9,Actor,,Walter Huston,Dodsworth
+1936,9,Actor,1.0,Paul Muni,The Story of Louis Pasteur
+1936,9,Actor,,William Powell,My Man Godfrey
+1936,9,Actor,,Spencer Tracy,San Francisco
+1936,9,Actress,,Irene Dunne,Theodora Goes Wild
+1936,9,Actress,,Gladys George,Valiant Is the Word for Carrie
+1936,9,Actress,,Carole Lombard,My Man Godfrey
+1936,9,Actress,1.0,Luise Rainer,The Great Ziegfeld
+1936,9,Actress,,Norma Shearer,Romeo and Juliet
+1937,10,Actor,,Charles Boyer,Conquest
+1937,10,Actor,,Fredric March,A Star Is Born
+1937,10,Actor,,Robert Montgomery,Night Must Fall
+1937,10,Actor,,Paul Muni,The Life of Emile Zola
+1937,10,Actor,1.0,Spencer Tracy,Captains Courageous
+1937,10,Actress,,Irene Dunne,The Awful Truth
+1937,10,Actress,,Greta Garbo,Camille
+1937,10,Actress,,Janet Gaynor,A Star Is Born
+1937,10,Actress,1.0,Luise Rainer,The Good Earth
+1937,10,Actress,,Barbara Stanwyck,Stella Dallas
+1938,11,Actor,,Charles Boyer,Algiers
+1938,11,Actor,,James Cagney,Angels with Dirty Faces
+1938,11,Actor,,Robert Donat,The Citadel
+1938,11,Actor,,Leslie Howard,Pygmalion
+1938,11,Actor,1.0,Spencer Tracy,Boys Town
+1938,11,Actress,,Fay Bainter,White Banners
+1938,11,Actress,1.0,Bette Davis,Jezebel
+1938,11,Actress,,Wendy Hiller,Pygmalion
+1938,11,Actress,,Norma Shearer,Marie Antoinette
+1938,11,Actress,,Margaret Sullavan,Three Comrades
+1939,12,Actor,1.0,Robert Donat,"Goodbye, Mr. Chips"
+1939,12,Actor,,Clark Gable,Gone with the Wind
+1939,12,Actor,,Laurence Olivier,Wuthering Heights
+1939,12,Actor,,Mickey Rooney,Babes in Arms
+1939,12,Actor,,James Stewart,Mr. Smith Goes to Washington
+1939,12,Actress,,Bette Davis,Dark Victory
+1939,12,Actress,,Irene Dunne,Love Affair
+1939,12,Actress,,Greta Garbo,Ninotchka
+1939,12,Actress,,Greer Garson,"Goodbye, Mr. Chips"
+1939,12,Actress,1.0,Vivien Leigh,Gone with the Wind
+1940,13,Actor,,Charles Chaplin,The Great Dictator
+1940,13,Actor,,Henry Fonda,The Grapes of Wrath
+1940,13,Actor,,Raymond Massey,Abe Lincoln in Illinois
+1940,13,Actor,,Laurence Olivier,Rebecca
+1940,13,Actor,1.0,James Stewart,The Philadelphia Story
+1940,13,Actress,,Bette Davis,The Letter
+1940,13,Actress,,Joan Fontaine,Rebecca
+1940,13,Actress,,Katharine Hepburn,The Philadelphia Story
+1940,13,Actress,1.0,Ginger Rogers,Kitty Foyle
+1940,13,Actress,,Martha Scott,Our Town
+1941,14,Actor,1.0,Gary Cooper,Sergeant York
+1941,14,Actor,,Cary Grant,Penny Serenade
+1941,14,Actor,,Walter Huston,All That Money Can Buy
+1941,14,Actor,,Robert Montgomery,Here Comes Mr. Jordan
+1941,14,Actor,,Orson Welles,Citizen Kane
+1941,14,Actress,,Bette Davis,The Little Foxes
+1941,14,Actress,,Olivia de Havilland,Hold Back the Dawn
+1941,14,Actress,1.0,Joan Fontaine,Suspicion
+1941,14,Actress,,Greer Garson,Blossoms in the Dust
+1941,14,Actress,,Barbara Stanwyck,Ball of Fire
+1942,15,Actor,1.0,James Cagney,Yankee Doodle Dandy
+1942,15,Actor,,Ronald Colman,Random Harvest
+1942,15,Actor,,Gary Cooper,The Pride of the Yankees
+1942,15,Actor,,Walter Pidgeon,Mrs. Miniver
+1942,15,Actor,,Monty Woolley,The Pied Piper
+1942,15,Actress,,Bette Davis,"Now, Voyager"
+1942,15,Actress,1.0,Greer Garson,Mrs. Miniver
+1942,15,Actress,,Katharine Hepburn,Woman of the Year
+1942,15,Actress,,Rosalind Russell,My Sister Eileen
+1942,15,Actress,,Teresa Wright,The Pride of the Yankees
+1943,16,Actor,,Humphrey Bogart,Casablanca
+1943,16,Actor,,Gary Cooper,For Whom the Bell Tolls
+1943,16,Actor,1.0,Paul Lukas,Watch on the Rhine
+1943,16,Actor,,Walter Pidgeon,Madame Curie
+1943,16,Actor,,Mickey Rooney,The Human Comedy
+1943,16,Actress,,Jean Arthur,The More the Merrier
+1943,16,Actress,,Ingrid Bergman,For Whom the Bell Tolls
+1943,16,Actress,,Joan Fontaine,The Constant Nymph
+1943,16,Actress,,Greer Garson,Madame Curie
+1943,16,Actress,1.0,Jennifer Jones,The Song of Bernadette
+1944,17,Actor,,Charles Boyer,Gaslight
+1944,17,Actor,1.0,Bing Crosby,Going My Way
+1944,17,Actor,,Barry Fitzgerald,Going My Way
+1944,17,Actor,,Cary Grant,None but the Lonely Heart
+1944,17,Actor,,Alexander Knox,Wilson
+1944,17,Actress,1.0,Ingrid Bergman,Gaslight
+1944,17,Actress,,Claudette Colbert,Since You Went Away
+1944,17,Actress,,Bette Davis,Mr. Skeffington
+1944,17,Actress,,Greer Garson,Mrs. Parkington
+1944,17,Actress,,Barbara Stanwyck,Double Indemnity
+1945,18,Actor,,Bing Crosby,The Bells of St. Mary's
+1945,18,Actor,,Gene Kelly,Anchors Aweigh
+1945,18,Actor,1.0,Ray Milland,The Lost Weekend
+1945,18,Actor,,Gregory Peck,The Keys of the Kingdom
+1945,18,Actor,,Cornel Wilde,A Song to Remember
+1945,18,Actress,,Ingrid Bergman,The Bells of St. Mary's
+1945,18,Actress,1.0,Joan Crawford,Mildred Pierce
+1945,18,Actress,,Greer Garson,The Valley of Decision
+1945,18,Actress,,Jennifer Jones,Love Letters
+1945,18,Actress,,Gene Tierney,Leave Her to Heaven
+1946,19,Actor,1.0,Fredric March,The Best Years of Our Lives
+1946,19,Actor,,Laurence Olivier,Henry V
+1946,19,Actor,,Larry Parks,The Jolson Story
+1946,19,Actor,,Gregory Peck,The Yearling
+1946,19,Actor,,James Stewart,It's a Wonderful Life
+1946,19,Actress,1.0,Olivia de Havilland,To Each His Own
+1946,19,Actress,,Celia Johnson,Brief Encounter
+1946,19,Actress,,Jennifer Jones,Duel in the Sun
+1946,19,Actress,,Rosalind Russell,Sister Kenny
+1946,19,Actress,,Jane Wyman,The Yearling
+1947,20,Actor,1.0,Ronald Colman,A Double Life
+1947,20,Actor,,John Garfield,Body and Soul
+1947,20,Actor,,Gregory Peck,Gentleman's Agreement
+1947,20,Actor,,William Powell,Life with Father
+1947,20,Actor,,Michael Redgrave,Mourning Becomes Electra
+1947,20,Actress,,Joan Crawford,Possessed
+1947,20,Actress,,Susan Hayward,Smash-Up--The Story of a Woman
+1947,20,Actress,,Dorothy McGuire,Gentleman's Agreement
+1947,20,Actress,,Rosalind Russell,Mourning Becomes Electra
+1947,20,Actress,1.0,Loretta Young,The Farmer's Daughter
+1948,21,Actor,,Lew Ayres,Johnny Belinda
+1948,21,Actor,,Montgomery Clift,The Search
+1948,21,Actor,,Dan Dailey,When My Baby Smiles at Me
+1948,21,Actor,1.0,Laurence Olivier,Hamlet
+1948,21,Actor,,Clifton Webb,Sitting Pretty
+1948,21,Actress,,Ingrid Bergman,Joan of Arc
+1948,21,Actress,,Olivia de Havilland,The Snake Pit
+1948,21,Actress,,Irene Dunne,I Remember Mama
+1948,21,Actress,,Barbara Stanwyck,"Sorry, Wrong Number"
+1948,21,Actress,1.0,Jane Wyman,Johnny Belinda
+1949,22,Actor,1.0,Broderick Crawford,All the King's Men
+1949,22,Actor,,Kirk Douglas,Champion
+1949,22,Actor,,Gregory Peck,Twelve O'Clock High
+1949,22,Actor,,Richard Todd,The Hasty Heart
+1949,22,Actor,,John Wayne,Sands of Iwo Jima
+1949,22,Actress,,Jeanne Crain,Pinky
+1949,22,Actress,1.0,Olivia de Havilland,The Heiress
+1949,22,Actress,,Susan Hayward,My Foolish Heart
+1949,22,Actress,,Deborah Kerr,"Edward, My Son"
+1949,22,Actress,,Loretta Young,Come to the Stable
+1950,23,Actor,,Louis Calhern,The Magnificent Yankee
+1950,23,Actor,1.0,José Ferrer,Cyrano de Bergerac
+1950,23,Actor,,William Holden,Sunset Blvd.
+1950,23,Actor,,James Stewart,Harvey
+1950,23,Actor,,Spencer Tracy,Father of the Bride
+1950,23,Actress,,Anne Baxter,All about Eve
+1950,23,Actress,,Bette Davis,All about Eve
+1950,23,Actress,1.0,Judy Holliday,Born Yesterday
+1950,23,Actress,,Eleanor Parker,Caged
+1950,23,Actress,,Gloria Swanson,Sunset Blvd.
+1951,24,Actor,1.0,Humphrey Bogart,The African Queen
+1951,24,Actor,,Marlon Brando,A Streetcar Named Desire
+1951,24,Actor,,Montgomery Clift,A Place in the Sun
+1951,24,Actor,,Arthur Kennedy,Bright Victory
+1951,24,Actor,,Fredric March,Death of a Salesman
+1951,24,Actress,,Katharine Hepburn,The African Queen
+1951,24,Actress,1.0,Vivien Leigh,A Streetcar Named Desire
+1951,24,Actress,,Eleanor Parker,Detective Story
+1951,24,Actress,,Shelley Winters,A Place in the Sun
+1951,24,Actress,,Jane Wyman,The Blue Veil
+1952,25,Actor,,Marlon Brando,Viva Zapata!
+1952,25,Actor,1.0,Gary Cooper,High Noon
+1952,25,Actor,,Kirk Douglas,The Bad and the Beautiful
+1952,25,Actor,,José Ferrer,Moulin Rouge
+1952,25,Actor,,Alec Guinness,The Lavender Hill Mob
+1952,25,Actress,1.0,Shirley Booth,"Come Back, Little Sheba"
+1952,25,Actress,,Joan Crawford,Sudden Fear
+1952,25,Actress,,Bette Davis,The Star
+1952,25,Actress,,Julie Harris,The Member of the Wedding
+1952,25,Actress,,Susan Hayward,With a Song in My Heart
+1953,26,Actor,,Marlon Brando,Julius Caesar
+1953,26,Actor,,Richard Burton,The Robe
+1953,26,Actor,,Montgomery Clift,From Here to Eternity
+1953,26,Actor,1.0,William Holden,Stalag 17
+1953,26,Actor,,Burt Lancaster,From Here to Eternity
+1953,26,Actress,,Leslie Caron,Lili
+1953,26,Actress,,Ava Gardner,Mogambo
+1953,26,Actress,1.0,Audrey Hepburn,Roman Holiday
+1953,26,Actress,,Deborah Kerr,From Here to Eternity
+1953,26,Actress,,Maggie McNamara,The Moon Is Blue
+1954,27,Actor,,Humphrey Bogart,The Caine Mutiny
+1954,27,Actor,1.0,Marlon Brando,On the Waterfront
+1954,27,Actor,,Bing Crosby,The Country Girl
+1954,27,Actor,,James Mason,A Star Is Born
+1954,27,Actor,,Dan O'Herlihy,Adventures of Robinson Crusoe
+1954,27,Actress,,Dorothy Dandridge,Carmen Jones
+1954,27,Actress,,Judy Garland,A Star Is Born
+1954,27,Actress,,Audrey Hepburn,Sabrina
+1954,27,Actress,1.0,Grace Kelly,The Country Girl
+1954,27,Actress,,Jane Wyman,Magnificent Obsession
+1955,28,Actor,1.0,Ernest Borgnine,Marty
+1955,28,Actor,,James Cagney,Love Me or Leave Me
+1955,28,Actor,,James Dean,East of Eden
+1955,28,Actor,,Frank Sinatra,The Man with the Golden Arm
+1955,28,Actor,,Spencer Tracy,Bad Day at Black Rock
+1955,28,Actress,,Susan Hayward,I'll Cry Tomorrow
+1955,28,Actress,,Katharine Hepburn,Summertime
+1955,28,Actress,,Jennifer Jones,Love Is a Many-Splendored Thing
+1955,28,Actress,1.0,Anna Magnani,The Rose Tattoo
+1955,28,Actress,,Eleanor Parker,Interrupted Melody
+1956,29,Actor,1.0,Yul Brynner,The King and I
+1956,29,Actor,,James Dean,Giant
+1956,29,Actor,,Kirk Douglas,Lust for Life
+1956,29,Actor,,Rock Hudson,Giant
+1956,29,Actor,,Sir Laurence Olivier,Richard III
+1956,29,Actress,,Carroll Baker,Baby Doll
+1956,29,Actress,1.0,Ingrid Bergman,Anastasia
+1956,29,Actress,,Katharine Hepburn,The Rainmaker
+1956,29,Actress,,Nancy Kelly,The Bad Seed
+1956,29,Actress,,Deborah Kerr,The King and I
+1957,30,Actor,,Marlon Brando,Sayonara
+1957,30,Actor,,Anthony Franciosa,A Hatful of Rain
+1957,30,Actor,1.0,Alec Guinness,The Bridge on the River Kwai
+1957,30,Actor,,Charles Laughton,Witness for the Prosecution
+1957,30,Actor,,Anthony Quinn,Wild Is the Wind
+1957,30,Actress,,Deborah Kerr,"Heaven Knows, Mr. Allison"
+1957,30,Actress,,Anna Magnani,Wild Is the Wind
+1957,30,Actress,,Elizabeth Taylor,Raintree County
+1957,30,Actress,,Lana Turner,Peyton Place
+1957,30,Actress,1.0,Joanne Woodward,The Three Faces of Eve
+1958,31,Actor,,Tony Curtis,The Defiant Ones
+1958,31,Actor,,Paul Newman,Cat on a Hot Tin Roof
+1958,31,Actor,1.0,David Niven,Separate Tables
+1958,31,Actor,,Sidney Poitier,The Defiant Ones
+1958,31,Actor,,Spencer Tracy,The Old Man and the Sea
+1958,31,Actress,1.0,Susan Hayward,I Want to Live!
+1958,31,Actress,,Deborah Kerr,Separate Tables
+1958,31,Actress,,Shirley MacLaine,Some Came Running
+1958,31,Actress,,Rosalind Russell,Auntie Mame
+1958,31,Actress,,Elizabeth Taylor,Cat on a Hot Tin Roof
+1959,32,Actor,,Laurence Harvey,Room at the Top
+1959,32,Actor,1.0,Charlton Heston,Ben-Hur
+1959,32,Actor,,Jack Lemmon,Some Like It Hot
+1959,32,Actor,,Paul Muni,The Last Angry Man
+1959,32,Actor,,James Stewart,Anatomy of a Murder
+1959,32,Actress,,Doris Day,Pillow Talk
+1959,32,Actress,,Audrey Hepburn,The Nun's Story
+1959,32,Actress,,Katharine Hepburn,"Suddenly, Last Summer"
+1959,32,Actress,1.0,Simone Signoret,Room at the Top
+1959,32,Actress,,Elizabeth Taylor,"Suddenly, Last Summer"
+1960,33,Actor,,Trevor Howard,Sons and Lovers
+1960,33,Actor,1.0,Burt Lancaster,Elmer Gantry
+1960,33,Actor,,Jack Lemmon,The Apartment
+1960,33,Actor,,Laurence Olivier,The Entertainer
+1960,33,Actor,,Spencer Tracy,Inherit the Wind
+1960,33,Actress,,Greer Garson,Sunrise at Campobello
+1960,33,Actress,,Deborah Kerr,The Sundowners
+1960,33,Actress,,Shirley MacLaine,The Apartment
+1960,33,Actress,,Melina Mercouri,Never on Sunday
+1960,33,Actress,1.0,Elizabeth Taylor,Butterfield 8
+1961,34,Actor,,Charles Boyer,Fanny
+1961,34,Actor,,Paul Newman,The Hustler
+1961,34,Actor,1.0,Maximilian Schell,Judgment at Nuremberg
+1961,34,Actor,,Spencer Tracy,Judgment at Nuremberg
+1961,34,Actor,,Stuart Whitman,The Mark
+1961,34,Actress,,Audrey Hepburn,Breakfast at Tiffany's
+1961,34,Actress,,Piper Laurie,The Hustler
+1961,34,Actress,1.0,Sophia Loren,Two Women
+1961,34,Actress,,Geraldine Page,Summer and Smoke
+1961,34,Actress,,Natalie Wood,Splendor in the Grass
+1962,35,Actor,,Burt Lancaster,Birdman of Alcatraz
+1962,35,Actor,,Jack Lemmon,Days of Wine and Roses
+1962,35,Actor,,Marcello Mastroianni,Divorce--Italian Style
+1962,35,Actor,,Peter O'Toole,Lawrence of Arabia
+1962,35,Actor,1.0,Gregory Peck,To Kill a Mockingbird
+1962,35,Actress,1.0,Anne Bancroft,The Miracle Worker
+1962,35,Actress,,Bette Davis,What Ever Happened to Baby Jane?
+1962,35,Actress,,Katharine Hepburn,Long Day's Journey into Night
+1962,35,Actress,,Geraldine Page,Sweet Bird of Youth
+1962,35,Actress,,Lee Remick,Days of Wine and Roses
+1963,36,Actor,,Albert Finney,Tom Jones
+1963,36,Actor,,Richard Harris,This Sporting Life
+1963,36,Actor,,Rex Harrison,Cleopatra
+1963,36,Actor,,Paul Newman,Hud
+1963,36,Actor,1.0,Sidney Poitier,Lilies of the Field
+1963,36,Actress,,Leslie Caron,The L-Shaped Room
+1963,36,Actress,,Shirley MacLaine,Irma La Douce
+1963,36,Actress,1.0,Patricia Neal,Hud
+1963,36,Actress,,Rachel Roberts,This Sporting Life
+1963,36,Actress,,Natalie Wood,Love with the Proper Stranger
+1964,37,Actor,,Richard Burton,Becket
+1964,37,Actor,1.0,Rex Harrison,My Fair Lady
+1964,37,Actor,,Peter O'Toole,Becket
+1964,37,Actor,,Anthony Quinn,Zorba the Greek
+1964,37,Actor,,Peter Sellers,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+1964,37,Actress,1.0,Julie Andrews,Mary Poppins
+1964,37,Actress,,Anne Bancroft,The Pumpkin Eater
+1964,37,Actress,,Sophia Loren,Marriage Italian Style
+1964,37,Actress,,Debbie Reynolds,The Unsinkable Molly Brown
+1964,37,Actress,,Kim Stanley,Seance on a Wet Afternoon
+1965,38,Actor,,Richard Burton,The Spy Who Came In from the Cold
+1965,38,Actor,1.0,Lee Marvin,Cat Ballou
+1965,38,Actor,,Laurence Olivier,Othello
+1965,38,Actor,,Rod Steiger,The Pawnbroker
+1965,38,Actor,,Oskar Werner,Ship of Fools
+1965,38,Actress,,Julie Andrews,The Sound of Music
+1965,38,Actress,1.0,Julie Christie,Darling
+1965,38,Actress,,Samantha Eggar,The Collector
+1965,38,Actress,,Elizabeth Hartman,A Patch of Blue
+1965,38,Actress,,Simone Signoret,Ship of Fools
+1966,39,Actor,,Alan Arkin,The Russians Are Coming The Russians Are Coming
+1966,39,Actor,,Richard Burton,Who's Afraid of Virginia Woolf?
+1966,39,Actor,,Michael Caine,Alfie
+1966,39,Actor,,Steve McQueen,The Sand Pebbles
+1966,39,Actor,1.0,Paul Scofield,A Man for All Seasons
+1966,39,Actress,,Anouk Aimee,A Man and a Woman
+1966,39,Actress,,Ida Kaminska,The Shop on Main Street
+1966,39,Actress,,Lynn Redgrave,Georgy Girl
+1966,39,Actress,,Vanessa Redgrave,Morgan!
+1966,39,Actress,1.0,Elizabeth Taylor,Who's Afraid of Virginia Woolf?
+1967,40,Actor,,Warren Beatty,Bonnie and Clyde
+1967,40,Actor,,Dustin Hoffman,The Graduate
+1967,40,Actor,,Paul Newman,Cool Hand Luke
+1967,40,Actor,1.0,Rod Steiger,In the Heat of the Night
+1967,40,Actor,,Spencer Tracy,Guess Who's Coming to Dinner
+1967,40,Actress,,Anne Bancroft,The Graduate
+1967,40,Actress,,Faye Dunaway,Bonnie and Clyde
+1967,40,Actress,,Dame Edith Evans,The Whisperers
+1967,40,Actress,,Audrey Hepburn,Wait until Dark
+1967,40,Actress,1.0,Katharine Hepburn,Guess Who's Coming to Dinner
+1968,41,Actor,,Alan Arkin,The Heart Is a Lonely Hunter
+1968,41,Actor,,Alan Bates,The Fixer
+1968,41,Actor,,Ron Moody,Oliver!
+1968,41,Actor,,Peter O'Toole,The Lion in Winter
+1968,41,Actor,1.0,Cliff Robertson,Charly
+1968,41,Actress,1.0,Katharine Hepburn,The Lion in Winter
+1968,41,Actress,,Patricia Neal,The Subject Was Roses
+1968,41,Actress,,Vanessa Redgrave,Isadora
+1968,41,Actress,1.0,Barbra Streisand,Funny Girl
+1968,41,Actress,,Joanne Woodward,"Rachel, Rachel"
+1969,42,Actor,,Richard Burton,Anne of the Thousand Days
+1969,42,Actor,,Dustin Hoffman,Midnight Cowboy
+1969,42,Actor,,Peter O'Toole,"Goodbye, Mr. Chips"
+1969,42,Actor,,Jon Voight,Midnight Cowboy
+1969,42,Actor,1.0,John Wayne,True Grit
+1969,42,Actress,,Genevieve Bujold,Anne of the Thousand Days
+1969,42,Actress,,Jane Fonda,"They Shoot Horses, Don't They?"
+1969,42,Actress,,Liza Minnelli,The Sterile Cuckoo
+1969,42,Actress,,Jean Simmons,The Happy Ending
+1969,42,Actress,1.0,Maggie Smith,The Prime of Miss Jean Brodie
+1970,43,Actor,,Melvyn Douglas,I Never Sang for My Father
+1970,43,Actor,,James Earl Jones,The Great White Hope
+1970,43,Actor,,Jack Nicholson,Five Easy Pieces
+1970,43,Actor,,Ryan O'Neal,Love Story
+1970,43,Actor,1.0,George C. Scott,Patton
+1970,43,Actress,,Jane Alexander,The Great White Hope
+1970,43,Actress,1.0,Glenda Jackson,Women in Love
+1970,43,Actress,,Ali MacGraw,Love Story
+1970,43,Actress,,Sarah Miles,Ryan's Daughter
+1970,43,Actress,,Carrie Snodgress,Diary of a Mad Housewife
+1971,44,Actor,,Peter Finch,Sunday Bloody Sunday
+1971,44,Actor,1.0,Gene Hackman,The French Connection
+1971,44,Actor,,Walter Matthau,Kotch
+1971,44,Actor,,George C. Scott,The Hospital
+1971,44,Actor,,Topol,Fiddler on the Roof
+1971,44,Actress,,Julie Christie,McCabe & Mrs. Miller
+1971,44,Actress,1.0,Jane Fonda,Klute
+1971,44,Actress,,Glenda Jackson,Sunday Bloody Sunday
+1971,44,Actress,,Vanessa Redgrave,"Mary, Queen of Scots"
+1971,44,Actress,,Janet Suzman,Nicholas and Alexandra
+1972,45,Actor,1.0,Marlon Brando,The Godfather
+1972,45,Actor,,Michael Caine,Sleuth
+1972,45,Actor,,Laurence Olivier,Sleuth
+1972,45,Actor,,Peter O'Toole,The Ruling Class
+1972,45,Actor,,Paul Winfield,Sounder
+1972,45,Actress,1.0,Liza Minnelli,Cabaret
+1972,45,Actress,,Diana Ross,Lady Sings the Blues
+1972,45,Actress,,Maggie Smith,Travels with My Aunt
+1972,45,Actress,,Cicely Tyson,Sounder
+1972,45,Actress,,Liv Ullmann,The Emigrants
+1973,46,Actor,,Marlon Brando,Last Tango in Paris
+1973,46,Actor,1.0,Jack Lemmon,Save the Tiger
+1973,46,Actor,,Jack Nicholson,The Last Detail
+1973,46,Actor,,Al Pacino,Serpico
+1973,46,Actor,,Robert Redford,The Sting
+1973,46,Actress,,Ellen Burstyn,The Exorcist
+1973,46,Actress,1.0,Glenda Jackson,A Touch of Class
+1973,46,Actress,,Marsha Mason,Cinderella Liberty
+1973,46,Actress,,Barbra Streisand,The Way We Were
+1973,46,Actress,,Joanne Woodward,"Summer Wishes, Winter Dreams"
+1974,47,Actor,1.0,Art Carney,Harry and Tonto
+1974,47,Actor,,Albert Finney,Murder on the Orient Express
+1974,47,Actor,,Dustin Hoffman,Lenny
+1974,47,Actor,,Jack Nicholson,Chinatown
+1974,47,Actor,,Al Pacino,The Godfather Part II
+1974,47,Actress,1.0,Ellen Burstyn,Alice Doesn't Live Here Anymore
+1974,47,Actress,,Diahann Carroll,Claudine
+1974,47,Actress,,Faye Dunaway,Chinatown
+1974,47,Actress,,Valerie Perrine,Lenny
+1974,47,Actress,,Gena Rowlands,A Woman under the Influence
+1975,48,Actor,,Walter Matthau,The Sunshine Boys
+1975,48,Actor,1.0,Jack Nicholson,One Flew over the Cuckoo's Nest
+1975,48,Actor,,Al Pacino,Dog Day Afternoon
+1975,48,Actor,,Maximilian Schell,The Man in the Glass Booth
+1975,48,Actor,,James Whitmore,"Give 'em Hell, Harry!"
+1975,48,Actress,,Isabelle Adjani,The Story of Adele H.
+1975,48,Actress,,Ann-Margret,Tommy
+1975,48,Actress,1.0,Louise Fletcher,One Flew over the Cuckoo's Nest
+1975,48,Actress,,Glenda Jackson,Hedda
+1975,48,Actress,,Carol Kane,Hester Street
